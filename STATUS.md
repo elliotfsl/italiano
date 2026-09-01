@@ -73,4 +73,4 @@ prolungato, altrimenti la baseline è gonfiata.
 - IN SOSPESO: Contesto viaggio in programma.md ancora vuoto; sardinia-trip/ non esiste nel container cloud. Da compilare dalla prima sessione locale.
 - Specchio pubblico per le sessioni voce: github.com/elliotfsl/italiano, sincronizzato dalla Action mirror-italiano a ogni push su master. Dettagli in PROTOCOL (Specchio pubblico). Le sessioni qui non lo leggono mai.
 
-<!-- mirror sync test 2026-08-31 -->
+<!-- mirror sync test metà settembre: primo push automatico riuscito dopo il cambio di token -->
