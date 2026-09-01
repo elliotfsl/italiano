@@ -32,6 +32,70 @@ Four parts, in this order:
 
 Fase settings carry over from PROTOCOL.md section 3 and the phase specs in programma.md: turn length caps, gloss policy, complication intensity. State them literally inside each pack rather than referencing them, since the chat cannot read those files.
 
+## Il modello di post-mortem (canonico, metà settembre)
+
+This is the return path for BOTH portable modes, pack and mirror. A pack embeds a copy; a
+mirror-driven chat reads it from here. The chat prints it at the very end, filled in, inside
+ONE code block, and tells Elliot to paste it into his Claude Code session. Keep the labels
+exactly as written, because ingestion below keys on them. Leave a field as `niente` rather
+than inventing content.
+
+```
+POST-MORTEM ITALIANO
+Giorno: <NN, da STATUS.md>
+Data: <YYYY-MM-DD della sessione>
+Modo: <pacchetto portatile | specchio pubblico>, voce
+Fase: <da STATUS.md>
+Tema: <dialogo o benchmark di oggi>
+
+BENCHMARK <N> (solo se oggi era dovuto, altrimenti cancella questo blocco intero)
+| Scenario | Compito | "?" | Riparazioni | Compr. | Sciolt. | Corr. | Lessico |
+|---|---|---|---|---|---|---|---|
+| Ristorante | sì/no | n | n | 1-5 | 1-5 | 1-5 | 1-5 |
+| Autonoleggio | sì/no | n | n | 1-5 | 1-5 | 1-5 | 1-5 |
+| Bar | sì/no | n | n | 1-5 | 1-5 | 1-5 | 1-5 |
+
+Citazioni (2 o 3 sue frasi, verbatim):
+- "..."
+
+Giudizio complessivo (un paragrafo, onesto):
+...
+
+Confronto col benchmark precedente (salta al run 1):
+...
+
+SCENARI FATTI
+- <file di dialoghi/ o riga della Banca scenari, uno per riga, solo quelli davvero corsi>
+- <per ogni scenario: anteprima sì/no, prova 1 sì/no, prova 2 sì/no, ripasso a freddo sì/no>
+
+COM'È ANDATA
+<2 righe, oneste>
+
+ERRORI TOP 3 (dalla prova 2, non dalla prova 1)
+- <pattern>: "<quello che ha detto>" -> "<corretto>"
+
+NOTA GRAMMATICALE
+<una, solo se è emersa>
+
+LESSICO NUOVO
+| Italiano | Inglese | Nota |
+|---|---|---|
+<6-10 voci incontrate davvero oggi, non la lista teorica del file>
+
+RIPASSO ANDATO MALE
+<parole delle sessioni passate che non è riuscito a produrre, o "niente">
+
+PROSSIMA VOLTA
+<un filo aperto, o il dialogo consigliato per la prossima sessione>
+```
+
+Scoring definitions, so the numbers stay comparable across the program: Compito means he
+completed the transaction without being rescued in English. Riparazioni counts the times he
+asked for repetition or restated himself to fix a breakdown; early in the program this going
+up is good, later it should fall. Comprensione is how much he understood at delivery speed.
+Scioltezza is flow and turn length. Correttezza is grammar and form, ignoring speech
+artifacts. Lessico is range and precision.
+
 ## Ingesting a post-mortem
 
 When Elliot pastes one or more post-mortems into a repo session, treat it exactly like a completed session, with the writes from PROTOCOL.md section 6 in the same crash-safe order:

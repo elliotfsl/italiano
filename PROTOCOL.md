@@ -6,6 +6,8 @@ This file is the session runner. If you are a Claude session and Elliot asked fo
 
 Two ways to run a session. In repo mode you are the partner, here, with full state access. In portable mode a pacchetto is generated here and run in a fresh claude.ai chat (voice mode, so Claude speaks), which returns a post-mortem that gets ingested here. Both are first-class; see `PORTATILI.md` for generation and ingestion. If Elliot pastes a post-mortem, that is an ingestion, not a session: skip Avvio and follow PORTATILI.md.
 
+If you are reading this from the public mirror (a claude.ai chat sent to `github.com/elliotfsl/italiano`), you are in portable mode without a pack and you cannot write: the mirror's own `README.md` is your runbook, Avvio step 8 and section 6 do not apply to you, and the post-mortem template in `PORTATILI.md` is your only output. (Added metà settembre.)
+
 Companion files:
 - `programma.md`: the five phases, scenario banks, real-call schedule, fixed benchmark scripts.
 - `STATUS.md`: current state. Rewritten wholesale at the end of every session; its Last updated line is the proof that bookkeeping finished.
