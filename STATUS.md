@@ -1,0 +1,60 @@
+# Italiano: stato del programma
+
+Last updated: 2026-08-29 (giorno 28)
+Start: 2026-08-02
+Partenza: metà settembre (ultima sessione utile: prima del viaggio)
+Giorni rimanenti: 14
+
+Se leggi questo senza contesto: prima leggi italiano/PROTOCOL.md.
+
+## Fasi (date)
+
+ATTENZIONE: questa tabella è quella calcolata al g01 e il calendario l'ha superata. Le fasi
+1-3 sono trascorse con 2 sole sessioni fatte (g01 e g28, pausa di 27 giorni in mezzo). Oggi
+il calendario dice fase 4, ma il livello reale è fase 1. Da ricalibrare con Elliot alla
+prossima sessione; fino ad allora le sessioni girano con impalcatura piena (anteprima-e-prova)
+sui contenuti di sopravvivenza, ignorando l'etichetta di fase.
+
+| Fase | Date | Giorni |
+|---|---|---|
+| 1 Sbloccare | 08-02 a 08-06 | g1-5 |
+| 2 Passato e programmi | 08-07 a 08-14 | g6-13 |
+| 3 Scenario gauntlet | 08-15 a 08-26 | g14-25 |
+| 4 Velocità e sfumature | 08-27 a metà settembre | g26-34 |
+| 5 Simulazione | metà settembre | g35-42 |
+
+## Contatore
+Sessioni completate: 2 (su 28 giorni di calendario)
+Streak: 1 (azzerata dalla pausa di 27 giorni, regola 7a)
+Ultima sessione: 2026-08-29
+
+## Benchmark
+
+Tutti in modalità testo e senza impalcature: niente risposte suggerite, niente copione,
+niente anteprima. Sono l'unica misura non assistita del programma.
+
+| # | Quando | Stato | Log |
+|---|---|---|---|
+| 1 | giorno 1 | MAI FATTO (rinviato al g01, poi 27 giorni di pausa) | |
+| 2 | prima sessione dal g20 | SCADUTO OGGI senza essere corso (g28 era la prima sessione dal g20) | |
+| 3 | prima sessione dal g40 | da fare (g40 = metà settembre) | |
+| 4 | entro 5 giorni dalla partenza | da fare | |
+
+LA PROSSIMA SESSIONE APRE COL BENCHMARK, prima di qualsiasi dialogo: i tre scenari congelati
+di programma.md, etichettati "benchmark 1 (tardivo, gNN)", che copre anche la finestra del
+n. 2. Senza questa misura non esiste una baseline e i benchmark 3 e 4 non hanno confronto.
+
+## Pattern di errore aperti
+- dare del tu agli sconosciuti: "fammi vedere" -> "mi faccia vedere" (visto 3x, ultimo g28; il Lei ragionato c'è, manca il default)
+- ne con le quantità: "vorrei due" -> "ne vorrei due" (visto 1x, ultimo g28)
+- "mi fa piacere" per gli oggetti: "un tramezzino mi fa piacere" -> "sì, volentieri" (visto 1x, ultimo g28)
+- congiuntivo dopo "penso che": "penso che più alta temperatura" -> "penso che sia la temperatura più alta" (visto 1x, ultimo g01)
+- superlativo relativo senza articolo: "più alta temperatura" -> "la temperatura più alta" (visto 1x, ultimo g01)
+- essere/stare per posizione: "stai indietro di me" -> "sei indietro rispetto a me" (visto 1x, ultimo g01)
+
+## Note
+- Prossima volta: 1) BENCHMARK (vedi sopra), 2) ripasso a freddo di cibo-01 senza anteprima, 3) decidere la ricalibrazione delle fasi: 14 giorni utili, proposta = sopravvivenza pura (cibo, trasporti, frasi di riparazione) + simulazione finale corta, saltando fase 2 e 4 come etichette.
+- Metodo: anteprima-e-prova con le 6 regole di formato in dialoghi/README.md (Nota bilingue, analisi completa bilingue dopo ogni prova, tabelle verbi via verbi.md, glosse inline, grassetto = riformulazione).
+- Il g28 è stato il primo giro vero del metodo: verificato che la prova 2 produce frasi non copiate dall'anteprima.
+- IN SOSPESO: Contesto viaggio in programma.md ancora vuoto; sardinia-trip/ non esiste nel container cloud. Da compilare dalla prima sessione locale.
+- Specchio pubblico per le sessioni voce: github.com/elliotfsl/italiano, sincronizzato dalla Action mirror-italiano a ogni push su master. Dettagli in PROTOCOL (Specchio pubblico). Le sessioni qui non lo leggono mai.
