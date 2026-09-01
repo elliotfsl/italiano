@@ -47,4 +47,6 @@ If a post-mortem is partial or malformed, ingest what is there and note the gap 
 
 ## Choosing a mode day to day
 
-Both modes are legitimate; they train different things. Repo sessions give precise written correction and full bookkeeping. Portable packs give spoken practice with real listening pressure. A reasonable rhythm is to run packs when he wants to speak or is away from the machine, and repo sessions when he wants accuracy work, but nothing enforces a pattern. Benchmarks are better run in a portable pack, since spoken performance is the thing being measured, as long as the post-mortem comes back with the scoring block.
+Both modes are legitimate; they train different things. Repo sessions give precise written correction and full bookkeeping. Portable packs give spoken practice with real listening pressure. A reasonable rhythm is to run packs when he wants to speak or is away from the machine, and repo sessions when he wants accuracy work, but nothing enforces a pattern.
+
+Benchmarks are better run spoken, since spoken performance is the thing being measured, so a portable pack or a mirror-driven voice chat is the preferred mode for them, not the exception. The one condition is that the post-mortem comes back carrying the scoring block from `programma.md` verbatim; without it the run measured nothing. The mirror README states the same rule, and `STATUS.md` is the file that says whether a benchmark is due today. If those three ever disagree, `STATUS.md` wins and the disagreement gets fixed in the same session.
