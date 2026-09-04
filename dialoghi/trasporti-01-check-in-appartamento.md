@@ -251,5 +251,15 @@ l'opposto: hai usato `stare` per la posizione, dove va `essere`. La posizione ne
 
 ## Lessico target
 
-il portone, le chiavi, la rete, non funziona, le strisce blu, il parchimetro, ci mette due
-minuti, ho bisogno di, mi raccomando, può ripetere più lentamente, meno male, il check-out
+| Italiano | Inglese | Nota |
+|---|---|---|
+| il portone | the main door | il portone del palazzo, non quello di casa / the building's street door, not the apartment door |
+| le chiavi | the keys | quasi sempre plurale in italiano / almost always plural in Italian |
+| la rete | the wifi network | anche "il wifi" ma la rete è più comune / wifi also works, but la rete is more common |
+| non funziona | it doesn't work | riferito a un oggetto o servizio / said of a thing or service, not a person |
+| le strisce blu | the blue lines | parcheggio a pagamento, contro strisce bianche gratis / paid parking, versus free white lines |
+| il parchimetro | the parking meter | dove si paga il parcheggio / where you pay for parking |
+| ho bisogno di | I need | seguito da infinito o sostantivo / followed by an infinitive or a noun |
+| mi raccomando | please, make sure to | avvertimento affettuoso, non letterale / affectionate warning, doesn't translate literally |
+| può ripetere più lentamente | can you repeat more slowly | forma Lei per chiedere aiuto / Lei form for asking for help |
+| meno male | thank goodness | sollievo, esclamazione comune / relief, very common exclamation |

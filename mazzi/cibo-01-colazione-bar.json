@@ -179,17 +179,67 @@
     "**Un turno non scritto**: gli chiedo da dove viene, così deve uscire dal copione e rientrarci. Serve a rompere la recitazione."
   ],
   "targetVocab": [
-    "vorrei",
-    "dica pure",
-    "al banco",
-    "al tavolo",
-    "alla crema",
-    "va benissimo",
-    "quanto Le devo",
-    "il resto",
-    "lo scontrino",
-    "salve"
+    {
+      "it": "vorrei",
+      "en": "I would like",
+      "noteIt": "forma di cortesia per ordinare",
+      "noteEn": "polite conditional, softer than voglio"
+    },
+    {
+      "it": "dica pure",
+      "en": "go ahead",
+      "noteIt": "il barista che invita a ordinare",
+      "noteEn": "the barista inviting you to order, formal Lei form"
+    },
+    {
+      "it": "al banco",
+      "en": "at the counter",
+      "noteIt": "dove si sta in piedi e si paga meno",
+      "noteEn": "standing here costs less"
+    },
+    {
+      "it": "al tavolo",
+      "en": "at the table",
+      "noteIt": "seduti, si paga di più",
+      "noteEn": "sitting costs two or three times more"
+    },
+    {
+      "it": "alla crema",
+      "en": "custard filled",
+      "noteIt": "riferito al cornetto",
+      "noteEn": "refers to the cornetto's filling"
+    },
+    {
+      "it": "va benissimo",
+      "en": "that works great",
+      "noteIt": "risposta entusiasta, non solo \"va bene\"",
+      "noteEn": "more enthusiastic than plain va bene"
+    },
+    {
+      "it": "quanto Le devo",
+      "en": "how much do I owe you",
+      "noteIt": "Le è la forma di cortesia",
+      "noteEn": "Le is the formal object pronoun"
+    },
+    {
+      "it": "il resto",
+      "en": "the change",
+      "noteIt": "i soldi che tornano indietro",
+      "noteEn": "money handed back"
+    },
+    {
+      "it": "lo scontrino",
+      "en": "the receipt",
+      "noteIt": "va tenuto, a volte richiesto per legge",
+      "noteEn": "keep it, sometimes legally required"
+    },
+    {
+      "it": "salve",
+      "en": "hello",
+      "noteIt": "formale, neutro tra buongiorno e buonasera",
+      "noteEn": "formal, works any time of day"
+    }
   ],
   "sourceSha": "unknown",
-  "builtAt": "2026-09-04T00:56:36Z"
+  "builtAt": "2026-09-04T02:42:52Z"
 }

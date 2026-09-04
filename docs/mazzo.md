@@ -41,7 +41,23 @@ Rules the builder enforces:
 - the file's slug must not be one of the frozen benchmark scenarios (the builder carries the
   three Banca scenari lines from `programma.md` "Benchmark fissi" and refuses them)
 
-`## Varianti per la prova 2` and `## Lessico target` are carried through verbatim.
+`## Varianti per la prova 2` is carried through verbatim.
+
+`## Lessico target` is a table, same shape as a Turno's candidate table:
+
+```
+## Lessico target
+
+| Italiano | Inglese | Nota |
+|---|---|---|
+| il cono | the cone | |
+| la coppetta | the cup | maschile e femminile per lo stesso oggetto / masculine and feminine noun for the same object |
+```
+
+6 to 10 rows. Nota is bilingual (`it / en`, split on the first ` / ` like every other Nota
+cell in the contract) and may be empty. The builder fails, loudly, on the old
+comma-separated string form (`## Lessico target\n\nil cono, la coppetta`); that form is no
+longer accepted.
 
 ## Output schema
 
@@ -69,7 +85,10 @@ Rules the builder enforces:
     }
   ],
   "variants": ["markdown string per numbered item"],
-  "targetVocab": ["il cono", "la coppetta"],
+  "targetVocab": [
+    {"it": "il cono", "en": "the cone", "noteIt": "", "noteEn": ""},
+    {"it": "la coppetta", "en": "the cup", "noteIt": "maschile e femminile per lo stesso oggetto", "noteEn": "masculine and feminine noun for the same object"}
+  ],
   "sourceSha": "<git sha of primatine194 that built it>",
   "builtAt": "metà settembreT00:00:00Z"
 }
@@ -79,4 +98,5 @@ Rules the builder enforces:
 
 Notes split on the first ` / ` in the Nota cell; if there is no ` / `, the whole cell goes to
 `noteIt` and `noteEn` is empty (the builder warns, does not fail). Same rule for the
-Distrattore reason.
+Distrattore reason and for the Lessico target table's Nota column. A Lessico target row
+with an empty Italiano or Inglese cell fails the build.

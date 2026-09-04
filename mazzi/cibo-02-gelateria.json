@@ -179,19 +179,67 @@
     "**Ordina per il gruppo**: cinque gelati, gusti diversi, uno senza latte. Deve tenere in piedi una lista con le quantità e usare `ne` almeno due volte senza pensarci."
   ],
   "targetVocab": [
-    "il cono",
-    "la coppetta",
-    "da tre gusti",
-    "è finito",
-    "peccato",
-    "la panna",
-    "un pochino",
-    "preferisco",
-    "mi piacciono",
-    "lo scontrino",
-    "la cassa",
-    "torno subito"
+    {
+      "it": "il cono",
+      "en": "the cone",
+      "noteIt": "maschile",
+      "noteEn": "masculine"
+    },
+    {
+      "it": "la coppetta",
+      "en": "the cup",
+      "noteIt": "femminile, anche detta \"coppa\"",
+      "noteEn": "feminine, sometimes called coppa"
+    },
+    {
+      "it": "è finito",
+      "en": "it's run out",
+      "noteIt": "riferito a un gusto esaurito",
+      "noteEn": "said of a flavor that sold out"
+    },
+    {
+      "it": "peccato",
+      "en": "too bad",
+      "noteIt": "esclamazione di dispiacere leggero",
+      "noteEn": "mild disappointment, not a real complaint"
+    },
+    {
+      "it": "la panna",
+      "en": "whipped cream",
+      "noteIt": "va chiesta a parte di solito",
+      "noteEn": "usually asked for separately"
+    },
+    {
+      "it": "un pochino",
+      "en": "just a little",
+      "noteIt": "diminutivo di \"un po'\", più affettuoso",
+      "noteEn": "diminutive of un po', softer and friendlier"
+    },
+    {
+      "it": "preferisco",
+      "en": "I prefer",
+      "noteIt": "prima persona di preferire",
+      "noteEn": "first person of preferire"
+    },
+    {
+      "it": "mi piacciono",
+      "en": "I like them",
+      "noteIt": "plurale, concorda col gusto plurale",
+      "noteEn": "plural agreement, not \"mi piace\""
+    },
+    {
+      "it": "lo scontrino",
+      "en": "the receipt",
+      "noteIt": "va pagato prima in alcuni gelaterie",
+      "noteEn": "some gelaterie want it paid before ordering"
+    },
+    {
+      "it": "la cassa",
+      "en": "the register",
+      "noteIt": "dove si paga prima di ordinare",
+      "noteEn": "where you pay, sometimes before ordering"
+    }
   ],
   "sourceSha": "unknown",
-  "builtAt": "2026-09-04T00:56:36Z"
+  "builtAt": "2026-09-04T02:42:52Z"
 }

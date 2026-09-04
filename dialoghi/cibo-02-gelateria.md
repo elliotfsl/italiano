@@ -195,5 +195,15 @@ fuori dal locale.
 
 ## Lessico target
 
-il cono, la coppetta, da tre gusti, è finito, peccato, la panna, un pochino, preferisco, mi
-piacciono, lo scontrino, la cassa, torno subito
+| Italiano | Inglese | Nota |
+|---|---|---|
+| il cono | the cone | maschile / masculine |
+| la coppetta | the cup | femminile, anche detta "coppa" / feminine, sometimes called coppa |
+| è finito | it's run out | riferito a un gusto esaurito / said of a flavor that sold out |
+| peccato | too bad | esclamazione di dispiacere leggero / mild disappointment, not a real complaint |
+| la panna | whipped cream | va chiesta a parte di solito / usually asked for separately |
+| un pochino | just a little | diminutivo di "un po'", più affettuoso / diminutive of un po', softer and friendlier |
+| preferisco | I prefer | prima persona di preferire / first person of preferire |
+| mi piacciono | I like them | plurale, concorda col gusto plurale / plural agreement, not "mi piace" |
+| lo scontrino | the receipt | va pagato prima in alcuni gelaterie / some gelaterie want it paid before ordering |
+| la cassa | the register | dove si paga prima di ordinare / where you pay, sometimes before ordering |

@@ -226,5 +226,15 @@ lui. Due mondi diversi, stessa parola.
 
 ## Lessico target
 
-un chilo, mezzo chilo, un etto, ne prendo due, quanto viene, basta così, mi dia, assaggiare,
-dolcissime, sono di qui, il sacchetto, un po' di
+| Italiano | Inglese | Nota |
+|---|---|---|
+| un chilo | a kilo | unità base al mercato / base market unit |
+| mezzo chilo | half a kilo | mezzo è invariabile qui / mezzo stays uninflected before chilo |
+| un etto | 100 grams | usatissimo per formaggi e affettati / very common for cheese and cold cuts |
+| ne prendo due | I'll take two of them | ne sostituisce il nome già detto / ne replaces the noun already named |
+| quanto viene | how much does it come to | più informale di "quanto costa" / more casual than quanto costa |
+| basta così | that's all, thanks | chiude l'ordine / signals the order is done |
+| mi dia | give me | imperativo di cortesia, forma Lei / polite imperative, Lei form, not command-rude |
+| assaggiare | to taste | spesso offerto dal venditore / often offered by the seller unprompted |
+| dolcissime | very sweet | superlativo assoluto, plurale femminile / absolute superlative, feminine plural |
+| sono di qui | they're local | riferito al prodotto, non a te / about the produce, not about you |

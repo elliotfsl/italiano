@@ -212,19 +212,67 @@
     "**Chiedo io a lui**: da dove venite, quanti siete, quanto vi fermate. Deve rispondere con numeri e date senza preparazione, e poi rientrare nel check-in."
   ],
   "targetVocab": [
-    "il portone",
-    "le chiavi",
-    "la rete",
-    "non funziona",
-    "le strisce blu",
-    "il parchimetro",
-    "ci mette due minuti",
-    "ho bisogno di",
-    "mi raccomando",
-    "può ripetere più lentamente",
-    "meno male",
-    "il check-out"
+    {
+      "it": "il portone",
+      "en": "the main door",
+      "noteIt": "il portone del palazzo, non quello di casa",
+      "noteEn": "the building's street door, not the apartment door"
+    },
+    {
+      "it": "le chiavi",
+      "en": "the keys",
+      "noteIt": "quasi sempre plurale in italiano",
+      "noteEn": "almost always plural in Italian"
+    },
+    {
+      "it": "la rete",
+      "en": "the wifi network",
+      "noteIt": "anche \"il wifi\" ma la rete è più comune",
+      "noteEn": "wifi also works, but la rete is more common"
+    },
+    {
+      "it": "non funziona",
+      "en": "it doesn't work",
+      "noteIt": "riferito a un oggetto o servizio",
+      "noteEn": "said of a thing or service, not a person"
+    },
+    {
+      "it": "le strisce blu",
+      "en": "the blue lines",
+      "noteIt": "parcheggio a pagamento, contro strisce bianche gratis",
+      "noteEn": "paid parking, versus free white lines"
+    },
+    {
+      "it": "il parchimetro",
+      "en": "the parking meter",
+      "noteIt": "dove si paga il parcheggio",
+      "noteEn": "where you pay for parking"
+    },
+    {
+      "it": "ho bisogno di",
+      "en": "I need",
+      "noteIt": "seguito da infinito o sostantivo",
+      "noteEn": "followed by an infinitive or a noun"
+    },
+    {
+      "it": "mi raccomando",
+      "en": "please, make sure to",
+      "noteIt": "avvertimento affettuoso, non letterale",
+      "noteEn": "affectionate warning, doesn't translate literally"
+    },
+    {
+      "it": "può ripetere più lentamente",
+      "en": "can you repeat more slowly",
+      "noteIt": "forma Lei per chiedere aiuto",
+      "noteEn": "Lei form for asking for help"
+    },
+    {
+      "it": "meno male",
+      "en": "thank goodness",
+      "noteIt": "sollievo, esclamazione comune",
+      "noteEn": "relief, very common exclamation"
+    }
   ],
   "sourceSha": "unknown",
-  "builtAt": "2026-09-04T00:56:36Z"
+  "builtAt": "2026-09-04T02:42:52Z"
 }

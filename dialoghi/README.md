@@ -36,7 +36,8 @@ il file di oggi, mai la cartella intera.
   traduzione in corsivo, poi una tabella di **tre** risposte possibili, poi la grammatica
   se c'è qualcosa di non ovvio.
 - **Varianti per la prova 2**: tre cambiamenti concreti.
-- **Lessico target**: 6-10 voci che dovrebbero finire in `lessico.md`.
+- **Lessico target**: tabella bilingue, 6-10 righe (italiano, inglese, nota) che dovrebbero
+  finire in `lessico.md`.
 
 ## Le tre risposte: le regole che contano
 
@@ -78,7 +79,9 @@ che gliele si debba ridire.
    cui esiste.
 7. **Tre elementi obbligatori per l'app**: `Voce: maschile|femminile` nell'intestazione, una
    riga `*Letteralmente: ...*` sotto la traduzione naturale di ogni turno, e un
-   `**Distrattore.**` dopo la tabella delle risposte candidate. Il contratto esatto, che
+   `**Distrattore.**` dopo la tabella delle risposte candidate. Anche il **Lessico target**
+   è una tabella bilingue (italiano, inglese, nota), non più un elenco separato da virgole:
+   l'app ne fa la tabella LESSICO NUOVO del post-mortem. Il contratto esatto, che
    `tools/build_mazzi.py` valida nella sync, è in `../docs/mazzo.md`.
 
 In ogni tabella di coniugazione la colonna della terza persona singolare va segnata come

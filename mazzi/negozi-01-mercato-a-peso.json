@@ -179,19 +179,67 @@
     "**Gli do del tu a metà scena** e comincio a chiacchierare veloce (da dove viene, quanti siete, cosa cucinate stasera). Deve reggere il piccolo cambio di registro senza perdere il filo della spesa."
   ],
   "targetVocab": [
-    "un chilo",
-    "mezzo chilo",
-    "un etto",
-    "ne prendo due",
-    "quanto viene",
-    "basta così",
-    "mi dia",
-    "assaggiare",
-    "dolcissime",
-    "sono di qui",
-    "il sacchetto",
-    "un po' di"
+    {
+      "it": "un chilo",
+      "en": "a kilo",
+      "noteIt": "unità base al mercato",
+      "noteEn": "base market unit"
+    },
+    {
+      "it": "mezzo chilo",
+      "en": "half a kilo",
+      "noteIt": "mezzo è invariabile qui",
+      "noteEn": "mezzo stays uninflected before chilo"
+    },
+    {
+      "it": "un etto",
+      "en": "100 grams",
+      "noteIt": "usatissimo per formaggi e affettati",
+      "noteEn": "very common for cheese and cold cuts"
+    },
+    {
+      "it": "ne prendo due",
+      "en": "I'll take two of them",
+      "noteIt": "ne sostituisce il nome già detto",
+      "noteEn": "ne replaces the noun already named"
+    },
+    {
+      "it": "quanto viene",
+      "en": "how much does it come to",
+      "noteIt": "più informale di \"quanto costa\"",
+      "noteEn": "more casual than quanto costa"
+    },
+    {
+      "it": "basta così",
+      "en": "that's all, thanks",
+      "noteIt": "chiude l'ordine",
+      "noteEn": "signals the order is done"
+    },
+    {
+      "it": "mi dia",
+      "en": "give me",
+      "noteIt": "imperativo di cortesia, forma Lei",
+      "noteEn": "polite imperative, Lei form, not command-rude"
+    },
+    {
+      "it": "assaggiare",
+      "en": "to taste",
+      "noteIt": "spesso offerto dal venditore",
+      "noteEn": "often offered by the seller unprompted"
+    },
+    {
+      "it": "dolcissime",
+      "en": "very sweet",
+      "noteIt": "superlativo assoluto, plurale femminile",
+      "noteEn": "absolute superlative, feminine plural"
+    },
+    {
+      "it": "sono di qui",
+      "en": "they're local",
+      "noteIt": "riferito al prodotto, non a te",
+      "noteEn": "about the produce, not about you"
+    }
   ],
   "sourceSha": "unknown",
-  "builtAt": "2026-09-04T00:56:36Z"
+  "builtAt": "2026-09-04T02:42:52Z"
 }

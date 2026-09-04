@@ -119,5 +119,15 @@ Il servizio è già dentro. `Tenga pure il resto` su pochi centesimi è normale,
 
 ## Lessico target
 
-vorrei, dica pure, al banco, al tavolo, alla crema, va benissimo, quanto Le devo, il resto,
-lo scontrino, salve
+| Italiano | Inglese | Nota |
+|---|---|---|
+| vorrei | I would like | forma di cortesia per ordinare / polite conditional, softer than voglio |
+| dica pure | go ahead | il barista che invita a ordinare / the barista inviting you to order, formal Lei form |
+| al banco | at the counter | dove si sta in piedi e si paga meno / standing here costs less |
+| al tavolo | at the table | seduti, si paga di più / sitting costs two or three times more |
+| alla crema | custard filled | riferito al cornetto / refers to the cornetto's filling |
+| va benissimo | that works great | risposta entusiasta, non solo "va bene" / more enthusiastic than plain va bene |
+| quanto Le devo | how much do I owe you | Le è la forma di cortesia / Le is the formal object pronoun |
+| il resto | the change | i soldi che tornano indietro / money handed back |
+| lo scontrino | the receipt | va tenuto, a volte richiesto per legge / keep it, sometimes legally required |
+| salve | hello | formale, neutro tra buongiorno e buonasera / formal, works any time of day |
