@@ -91,3 +91,13 @@ The read-and-listen screen before a Lezione: scene, role, and every Turno with i
 translations, Risposte candidate, and grammar note. Skippable, and never shown before a
 Ripasso a freddo.
 _Avoid_: preview, briefing, study mode
+
+**Improvvisazione**:
+A Lezione where the other speaker is played live from the Dialogo's scene and Varianti,
+with no fixed Battute, no cards, spoken replies only. The app's prova 2.
+_Avoid_: free mode, live mode, prova 2 (in the app UI)
+
+**Ripasso andato male**:
+A Turno that was answered correctly in an earlier pass of the same Dialogo and needed a
+Soccorso or was wrong in the latest pass; also a target word never produced across passes.
+_Avoid_: regression, forgotten, failed review
