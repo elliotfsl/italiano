@@ -4,6 +4,13 @@ Categoria: cibo · Fase minima: 1 · Banca scenari: "Colazione al bar: ordinare 
 
 ## Scena
 
+È mattina, in un bar pieno di gente. Siete in cinque, ma tu ordini da solo, al banco. Due
+cose confondono gli americani qui. Gli italiani bevono il caffè in piedi, al banco. Sedersi
+al tavolo può costare due o tre volte di più per la stessa tazza. Si paga alla fine, non
+prima.
+
+---
+
 Morning, a busy bar. You are one of five tourists but you are ordering alone, standing at
 the counter. Two things trip up Americans here: Italians drink coffee standing at the bar,
 and sitting at a table can cost two or three times as much for the same cup. You pay at the
@@ -32,6 +39,14 @@ nominando solo la cosa. Non è pigrizia, è la norma.
 
 `Salve` è il saluto che salva quando non sai se dare del tu o del Lei. Funziona sempre.
 
+**Grammar.** `Vorrei` is the conditional of `volere` and it is the most useful word of the
+trip. `Voglio` (I want) sounds abrupt, almost like a spoiled child. `Vorrei` is what real
+people say. Notice that the second option has no verb at all: in Italy people order very
+often by just naming the thing. It is not laziness, it is the norm.
+
+`Salve` is the greeting that saves you when you do not know whether to use tu or Lei. It
+always works.
+
 ### Turno 2 · BARISTA: "Al banco o al tavolo?"
 *At the counter or at a table?*
 *Letteralmente: At-the counter or at-the table?*
@@ -47,6 +62,10 @@ nominando solo la cosa. Non è pigrizia, è la norma.
 **Grammatica.** `Al` = `a + il`. L'italiano fonde preposizione e articolo e non è
 facoltativo: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` =
 del. Questa fusione tornerà in ogni singola sessione.
+
+**Grammar.** `Al` = `a + il`. Italian fuses preposition and article, and it is not
+optional: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` = del.
+This fusion will come back in every single session.
 
 ### Turno 3 · BARISTA: "Il cornetto lo vuole semplice, alla crema o alla marmellata?"
 *Do you want the croissant plain, with cream, or with jam?*
@@ -69,6 +88,16 @@ condito qualcosa. Stesso schema di `pasta al pomodoro`, `gelato al pistacchio`.
 al verbo coniugato, non dopo: `lo voglio`, mai "voglio lo". L'inglese fa il contrario, quindi
 questa è una che si sbaglia per mesi. Non devi ancora produrla, ma riconoscila.
 
+**Grammar.** Two things here.
+
+`Alla crema`, `alla marmellata`: you use `a + article` to say what something is filled or
+topped with. Same pattern as `pasta al pomodoro`, `gelato al pistacchio`.
+
+`Lo vuole` has an object pronoun before the verb. In Italian the object pronoun goes in
+front of the conjugated verb, never after: `lo voglio`, never "voglio lo". English does the
+opposite, so this is one you will get wrong for months. You do not need to produce it yet,
+but recognize it.
+
 ### Turno 4 · BARISTA: "Ecco a Lei. Altro?"
 *Here you go. Anything else?*
 *Letteralmente: Here-is to-you-formal. Other?*
@@ -89,6 +118,14 @@ Il `Lei` di cortesia si scrive spesso con la maiuscola e prende il verbo alla te
 singolare: `Lei vuole`, non "Lei vuoi". Col barista, col cameriere, con chiunque non conosci:
 sempre Lei.
 
+**Grammar.** `Quanto Le devo?` literally "how much do I owe to you", with `Le` as the
+formal object pronoun. It is more natural than `quanto costa` when you are about to pay for
+something you have already consumed. `Quanto costa` is used earlier, for a single item.
+
+The formal `Lei` is often capitalized and takes the verb in the third person singular:
+`Lei vuole`, never "Lei vuoi". With the barista, the waiter, anyone you do not know: always
+Lei.
+
 ### Turno 5 · BARISTA: "Sono quattro e cinquanta."
 *That's four fifty.*
 *Letteralmente: Are four and fifty.*
@@ -108,14 +145,27 @@ in mezzo, è un prezzo.
 Attenzione culturale: la mancia non si fa quasi mai in Italia, e non è scortese non lasciarla.
 Il servizio è già dentro. `Tenga pure il resto` su pochi centesimi è normale, il 20% no.
 
+**Grammar.** Prices are said without the word "euro" in fast speech: `quattro e cinquanta`
+for €4.50. The `e` works as a decimal point. If you hear just two numbers with an `e` in
+between, it is a price.
+
+Cultural note: tipping is almost never done in Italy, and it is not rude to skip it. The
+service is already included. `Tenga pure il resto` over a few cents is normal, 20% is not.
+
 ## Varianti per la prova 2
 
 1. **I cornetti alla crema sono finiti.** Offro solo semplice o alla marmellata, e lo dico
    dopo che ha già ordinato quello alla crema.
+   *The cream croissants are out. I offer only plain or jam, and I say so after he has
+   already ordered the cream one.*
 2. **Inverto l'ordine dei turni**: chiedo `al banco o al tavolo?` per primo, prima ancora
    che abbia detto cosa vuole.
+   *I swap the order of the turns: I ask `al banco o al tavolo?` first, before he has even
+   said what he wants.*
 3. **Un turno non scritto**: gli chiedo da dove viene, così deve uscire dal copione e
    rientrarci. Serve a rompere la recitazione.
+   *An unscripted turn: I ask him where he is from, so he has to step outside the script
+   and back in. It breaks the sense of reciting lines.*
 
 ## Lessico target
 

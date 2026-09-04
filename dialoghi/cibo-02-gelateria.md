@@ -4,6 +4,20 @@ Categoria: cibo · Fase minima: 1 · Banca scenari: "Gelateria: gusti, coni, cop
 
 ## Scena
 
+Dopo cena, in una gelateria. C'è la fila dietro di te, e hai circa otto secondi per decidere.
+Poco rischio, ma succede spesso: lo farai ogni giorno del viaggio. Per questo è il posto
+migliore per rendere automatici `ne`, le quantità, e la forma di cortesia.
+
+La complicazione fa parte della scena, non è solo nelle varianti, perché è quella vera: il
+gusto che vuoi è finito, e devi rispondere in fretta.
+
+Prima una cosa pratica. In molte gelaterie si paga prima alla cassa e si porta lo scontrino a
+chi fa il gelato (`prima si paga alla cassa`). Nei piccoli locali di quartiere invece si
+ordina e si paga alla fine. Se vedi una cassa vicino alla porta con la fila, è la tua prima
+fermata.
+
+---
+
 After dinner, a gelateria with a queue behind you and about eight seconds to decide. Low
 stakes, high frequency: you will do this every single day of the trip, so it is the cheapest
 place to make `ne`, quantities, and the polite form automatic.
@@ -37,6 +51,13 @@ significano sempre "piccolo": spesso segnalano solo affetto o familiarità.
 Ordinare senza verbo (`cono, grazie`) non è brusco, è la norma. Il verbo lo mettono i
 turisti.
 
+**Grammar.** `Coppetta` is the diminutive of `coppa`, and diminutives in `-etto` / `-etta`
+are everywhere in Italian food words: `tramezzino`, `panino`, `cornetto`, `spuntino`. They
+do not always mean "small": often they just signal affection or familiarity.
+
+Ordering with no verb (`cono, grazie`) is not curt, it is the norm. Tourists are the ones
+who add the verb.
+
 ### Turno 2 · GELATAIO: "Da quanti gusti? La piccola ne prende due, la media tre."
 *How many flavors? The small takes two, the medium three.*
 *Letteralmente: Of how-many flavors? The small-one of-them takes two, the medium-one three.*
@@ -59,6 +80,19 @@ di `ne prendo tre`, ti capiscono e ti segnano come straniero nello stesso istant
 
 Su cosa mettere: due gusti dello stesso mondo funzionano meglio di due a caso. `Pistacchio e
 nocciola` sì; `limone e stracciatella` è una scelta che ti fa guardare male, con affetto.
+
+**Grammar.** `Da` here does not mean "from". With flavors and sizes it marks what
+something is made of or made up of: `un cono da tre gusti`, `una bottiglia da mezzo litro`,
+`una banconota da venti`. English has no equivalent use, and you only learn it in chunks.
+
+Notice his `ne prende due` again. It is the same `ne` as at the market: a quantity without
+the name of the thing, so `ne` is required, and always before the verb. If you say `prendo
+tre` instead of `ne prendo tre`, they understand you, and they clock you as a foreigner in
+the same instant.
+
+On what to combine: two flavors from the same world work better than two at random.
+`Pistacchio e nocciola`, yes; `limone e stracciatella` is a choice that gets you a look, an
+affectionate one.
 
 ### Turno 3 · GELATAIO: "Mi dispiace, il pistacchio è finito. Le posso consigliare la nocciola, o il mandorla, che qui è buonissimo."
 *Sorry, the pistachio is finished. I can recommend the hazelnut, or the almond, which here is excellent.*
@@ -115,6 +149,50 @@ sempre nelle stesse quattro persone (io, tu, lui, loro), mai in `noi` e `voi`.
 `Preferisco` è il modo educato di dire no a una proposta senza rifiutarla: `preferisco la
 nocciola`, invece di "non voglio il mandorla".
 
+**Grammar.** `È finito` (= it's run out, it's finished) is the phrase you will hear about
+fish at a restaurant, about a flavor at the gelateria, about a size at a shop. It agrees
+with the subject: `il pistacchio è finito`, `la nocciola è finita`, `i cornetti sono
+finiti`.
+
+`Peccato!` (= what a shame) on its own is a complete exclamation. Learning it saves you
+from translating "that's too bad", which has no direct, natural Italian equivalent.
+
+`Le posso consigliare` has `Le` as the indirect formal pronoun: "I can recommend to you".
+Notice the pronoun sits before the whole verb group.
+
+**Conjugation: FINIRE** (to finish, to run out), an `-isc-` verb
+
+| Person | Present | Note |
+|---|---|---|
+| io | finisco | |
+| tu | finisci | |
+| lui/lei/**Lei** | finisce | |
+| noi | finiamo | the `-isc-` drops here |
+| voi | finite | here too |
+| loro | finiscono | |
+
+Past participle: `finito`. In the sense of "having run out" it takes the auxiliary
+`essere`: `il pistacchio è finito`. In the sense of "having finished an action" it takes
+`avere`: `ho finito di mangiare`.
+
+That `-isc-` in the middle is not a quirk: a whole group of `-ire` verbs takes it, always
+in the same four persons (io, tu, lui, loro), never in `noi` and `voi`. `Capire` does the
+same: `capisco`, `capisci`, `capisce`, `capiamo`, `capite`, `capiscono`.
+
+**Conjugation: PREFERIRE** (to prefer), same `-isc-` group
+
+| Person | Present | Note |
+|---|---|---|
+| io | preferisco | |
+| tu | preferisci | |
+| lui/lei/**Lei** | preferisce | `cosa preferisce?` |
+| noi | preferiamo | |
+| voi | preferite | |
+| loro | preferiscono | |
+
+`Preferisco` is the polite way to say no to an offer without refusing it outright:
+`preferisco la nocciola`, instead of "non voglio il mandorla".
+
 ### Turno 4 · GELATAIO: "Ci mette la panna? È gratis."
 *Do you want whipped cream on it? It's free.*
 *Letteralmente: On-it put-you the cream? Is free.*
@@ -160,6 +238,42 @@ piace a te. Quindi il soggetto è la cosa, e il verbo concorda con **la cosa**, 
 Regola pratica: una cosa sola, `piace`; più cose, `piacciono`. Sbagliare qui è normalissimo
 per mesi, ma è anche il posto dove una correzione ti rende subito più chiaro.
 
+**Grammar.** `Ci mette la panna?` uses `ci` as "on it, in it": the same `ci` as in `ci
+metto lo zucchero`. It is different from the `ci mette due minuti` at check-in, where `ci`
+sits inside a time formula. Do not try to reason them into one rule; they are two separate
+chunks to learn.
+
+`Va bene così` is your phrase from day 28 and it still holds: it refuses without offending,
+and it closes the exchange.
+
+`Un pochino` is the diminutive of `un poco`, and it softens any request. `Un attimino`
+(= just a sec) works the same way and is almost a parody of itself, but everyone says it.
+
+**Conjugation: PIACERE** (to please), the verb that works backward
+
+| Person | Present | Note |
+|---|---|---|
+| io | piaccio | rare |
+| tu | piaci | |
+| lui/lei/**Lei** | piace | `mi piace il gelato` |
+| noi | piacciamo | |
+| voi | piacete | |
+| loro | piacciono | `mi piacciono i gelati` |
+
+Here is the trap, and it is a big one. In Italian you are not the one who likes the
+gelato: it is the gelato that is pleasing to you. So the subject is the thing, and the verb
+agrees with **the thing**, not with you.
+
+| Italian | English (literal) | English (real) |
+|---|---|---|
+| mi piace il pistacchio | to me is pleasing the pistachio | I like pistachio |
+| mi piacciono i pistacchi | to me are pleasing the pistachios | I like pistachios |
+| ti è piaciuto? | to you was it pleasing? | did you like it? |
+
+Practical rule: one thing, `piace`; more than one thing, `piacciono`. Getting this wrong is
+completely normal for months, but it is also the spot where one correction makes you
+noticeably clearer right away.
+
 ### Turno 5 · GELATAIO: "Sono quattro e cinquanta. Prima passi alla cassa, poi torni qui con lo scontrino."
 *That's four fifty. Go to the till first, then come back here with the receipt.*
 *Letteralmente: Are four and fifty. First pass-you at-the till, then return-you here with the receipt.*
@@ -183,15 +297,33 @@ esiste, ma nel parlato quotidiano serve molto meno di quanto pensi.
 `Lo scontrino` è la ricevuta, ed è più importante di quanto sembri: in Italia si tiene fino a
 fuori dal locale.
 
+**Grammar.** `Passi`, `torni`: two more polite imperatives, and by now you should
+recognize them by ear. A final `-i` on an `-are` verb that is giving you an instruction is
+almost always the Lei form.
+
+`Torno subito` (= I'll be right back) is the present tense used for the immediate future.
+Italian does this constantly: `arrivo`, `vengo`, `pago io`, `ti chiamo dopo`. The
+grammatical future exists, but everyday speech needs it far less than you would think.
+
+`Lo scontrino` is the receipt, and it matters more than it looks: in Italy you keep it
+until you are outside the shop.
+
 ## Varianti per la prova 2
 
 1. **Faccio la fila dietro di lui rumorosa e gli metto fretta**, ripetendo `dica, dica` e
    parlando veloce. Deve ordinare in due turni invece di cinque, tagliando tutto il
    superfluo. Serve a smontare la recitazione.
+   *I make the queue behind him noisy and rush him, repeating `dica, dica` and talking
+   fast. He has to order in two turns instead of five, cutting out everything extra. It
+   breaks the sense of reciting lines.*
 2. **Finisce anche il secondo gusto** che sceglie, e la terza volta gli propongo di lasciar
    scegliere me. Deve accettare o rifiutare un consiglio non richiesto, e dire perché.
+   *The second flavor he picks runs out too, and the third time I offer to choose for him.
+   He has to accept or decline unsolicited advice, and say why.*
 3. **Ordina per il gruppo**: cinque gelati, gusti diversi, uno senza latte. Deve tenere in
    piedi una lista con le quantità e usare `ne` almeno due volte senza pensarci.
+   *He orders for the group: five gelati, different flavors, one dairy free. He has to keep
+   a running list with quantities and use `ne` at least twice without thinking about it.*
 
 ## Lessico target
 

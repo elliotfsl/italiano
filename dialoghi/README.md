@@ -31,11 +31,14 @@ il file di oggi, mai la cartella intera.
 ## Struttura del file
 
 - **Intestazione**: categoria, fase minima, la riga esatta della Banca scenari.
-- **Scena**: due righe in inglese. Dove siamo, chi sei, e qual è la complicazione.
+- **Scena**: bilingue. Dove siamo, chi sei, e qual è la complicazione: prima in italiano
+  (leggibile A2), poi un separatore `---`, poi lo stesso testo in inglese.
 - **Anteprima**: un blocco per turno. La battuta dell'altro personaggio in italiano con
   traduzione in corsivo, poi una tabella di **tre** risposte possibili, poi la grammatica
-  se c'è qualcosa di non ovvio.
-- **Varianti per la prova 2**: tre cambiamenti concreti.
+  se c'è qualcosa di non ovvio, in italiano (`**Grammatica.**`) seguita dalla stessa
+  spiegazione in inglese (`**Grammar.**`).
+- **Varianti per la prova 2**: tre cambiamenti concreti, ognuno seguito da una riga in
+  corsivo indentata con la resa inglese.
 - **Lessico target**: tabella bilingue, 6-10 righe (italiano, inglese, nota) che dovrebbero
   finire in `lessico.md`.
 
@@ -83,6 +86,13 @@ che gliele si debba ridire.
    è una tabella bilingue (italiano, inglese, nota), non più un elenco separato da virgole:
    l'app ne fa la tabella LESSICO NUOVO del post-mortem. Il contratto esatto, che
    `tools/build_mazzi.py` valida nella sync, è in `../docs/mazzo.md`.
+8. **Tre sezioni bilingui aggiunte il metà settembre**: la **Scena** (italiano, poi `---`, poi
+   inglese), la **Grammatica** di ogni turno (`**Grammatica.**` in italiano seguita da
+   `**Grammar.**` in inglese, tabelle di coniugazione comprese: si traducono le intestazioni
+   e le note, le forme verbali restano in italiano), e le **Varianti per la prova 2** (ogni
+   voce numerata seguita da una riga in corsivo indentata con la resa inglese). Il builder
+   fallisce se manca uno di questi tre elementi dove è richiesto; il contratto esatto è in
+   `../docs/mazzo.md`.
 
 In ogni tabella di coniugazione la colonna della terza persona singolare va segnata come
 `lui/lei/**Lei**`. Il suo errore più grosso e più frequente è dare del tu agli sconosciuti,

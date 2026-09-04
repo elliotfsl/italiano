@@ -6,6 +6,8 @@
   "bank": "Colazione al bar: ordinare cappuccino e cornetto, capire banco vs tavolo",
   "voice": "femminile",
   "scene": "Morning, a busy bar. You are one of five tourists but you are ordering alone, standing at\nthe counter. Two things trip up Americans here: Italians drink coffee standing at the bar,\nand sitting at a table can cost two or three times as much for the same cup. You pay at the\nend, not up front.",
+  "sceneIt": "È mattina, in un bar pieno di gente. Siete in cinque, ma tu ordini da solo, al banco. Due\ncose confondono gli americani qui. Gli italiani bevono il caffè in piedi, al banco. Sedersi\nal tavolo può costare due o tre volte di più per la stessa tazza. Si paga alla fine, non\nprima.",
+  "sceneEn": "Morning, a busy bar. You are one of five tourists but you are ordering alone, standing at\nthe counter. Two things trip up Americans here: Italians drink coffee standing at the bar,\nand sitting at a table can cost two or three times as much for the same cup. You pay at the\nend, not up front.",
   "turns": [
     {
       "n": 1,
@@ -38,7 +40,8 @@
         "whyIt": "dà del tu a uno sconosciuto, serve il Lei o l'imperativo di cortesia",
         "whyEn": "uses tu with a stranger, needs Lei or the polite imperative"
       },
-      "grammar": "**Grammatica.** `vorrei` è il condizionale di `volere` ed è la parola più utile del viaggio.\n`Voglio` (I want) suona brusco, quasi da bambino capriccioso. `Vorrei` è quello che dice la\ngente vera. Nota che la seconda opzione non ha nessun verbo: in Italia si ordina spessissimo\nnominando solo la cosa. Non è pigrizia, è la norma.\n\n`Salve` è il saluto che salva quando non sai se dare del tu o del Lei. Funziona sempre."
+      "grammar": "**Grammatica.** `vorrei` è il condizionale di `volere` ed è la parola più utile del viaggio.\n`Voglio` (I want) suona brusco, quasi da bambino capriccioso. `Vorrei` è quello che dice la\ngente vera. Nota che la seconda opzione non ha nessun verbo: in Italia si ordina spessissimo\nnominando solo la cosa. Non è pigrizia, è la norma.\n\n`Salve` è il saluto che salva quando non sai se dare del tu o del Lei. Funziona sempre.",
+      "grammarEn": "**Grammar.** `Vorrei` is the conditional of `volere` and it is the most useful word of the\ntrip. `Voglio` (I want) sounds abrupt, almost like a spoiled child. `Vorrei` is what real\npeople say. Notice that the second option has no verb at all: in Italy people order very\noften by just naming the thing. It is not laziness, it is the norm.\n\n`Salve` is the greeting that saves you when you do not know whether to use tu or Lei. It\nalways works."
     },
     {
       "n": 2,
@@ -71,7 +74,8 @@
         "whyIt": "\"mi fa piacere\" si usa per azioni e inviti, non per un oggetto scelto; si dice \"il tavolo va bene\"",
         "whyEn": "\"mi fa piacere\" is for actions and invitations, not a chosen object; say \"il tavolo va bene\""
       },
-      "grammar": "**Grammatica.** `Al` = `a + il`. L'italiano fonde preposizione e articolo e non è\nfacoltativo: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` =\ndel. Questa fusione tornerà in ogni singola sessione."
+      "grammar": "**Grammatica.** `Al` = `a + il`. L'italiano fonde preposizione e articolo e non è\nfacoltativo: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` =\ndel. Questa fusione tornerà in ogni singola sessione.",
+      "grammarEn": "**Grammar.** `Al` = `a + il`. Italian fuses preposition and article, and it is not\noptional: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` = del.\nThis fusion will come back in every single session."
     },
     {
       "n": 3,
@@ -104,7 +108,8 @@
         "whyIt": "dopo \"penso che\" serve il congiuntivo: \"sia\", non \"è\"",
         "whyEn": "after \"penso che\" the subjunctive is required: \"sia\", not \"è\""
       },
-      "grammar": "**Grammatica.** Due cose qui.\n\n`Alla crema`, `alla marmellata`: si usa `a + articolo` per dire di che cosa è farcito o\ncondito qualcosa. Stesso schema di `pasta al pomodoro`, `gelato al pistacchio`.\n\n`Lo vuole` ha un pronome oggetto prima del verbo. In italiano il pronome oggetto va davanti\nal verbo coniugato, non dopo: `lo voglio`, mai \"voglio lo\". L'inglese fa il contrario, quindi\nquesta è una che si sbaglia per mesi. Non devi ancora produrla, ma riconoscila."
+      "grammar": "**Grammatica.** Due cose qui.\n\n`Alla crema`, `alla marmellata`: si usa `a + articolo` per dire di che cosa è farcito o\ncondito qualcosa. Stesso schema di `pasta al pomodoro`, `gelato al pistacchio`.\n\n`Lo vuole` ha un pronome oggetto prima del verbo. In italiano il pronome oggetto va davanti\nal verbo coniugato, non dopo: `lo voglio`, mai \"voglio lo\". L'inglese fa il contrario, quindi\nquesta è una che si sbaglia per mesi. Non devi ancora produrla, ma riconoscila.",
+      "grammarEn": "**Grammar.** Two things here.\n\n`Alla crema`, `alla marmellata`: you use `a + article` to say what something is filled or\ntopped with. Same pattern as `pasta al pomodoro`, `gelato al pistacchio`.\n\n`Lo vuole` has an object pronoun before the verb. In Italian the object pronoun goes in\nfront of the conjugated verb, never after: `lo voglio`, never \"voglio lo\". English does the\nopposite, so this is one you will get wrong for months. You do not need to produce it yet,\nbut recognize it."
     },
     {
       "n": 4,
@@ -137,7 +142,8 @@
         "whyIt": "manca \"ne\": una quantità senza il nome della cosa vuole \"ne\", cioè \"ne prendo ancora uno\"",
         "whyEn": "missing \"ne\": a quantity without repeating the noun needs \"ne\", i.e. \"ne prendo ancora uno\""
       },
-      "grammar": "**Grammatica.** `Quanto Le devo?` letteralmente \"how much do I owe to you\", con `Le` che è\nil pronome di cortesia. È più naturale di `quanto costa` quando stai per pagare quello che\nhai già consumato. `Quanto costa` si usa prima, per una cosa sola.\n\nIl `Lei` di cortesia si scrive spesso con la maiuscola e prende il verbo alla terza persona\nsingolare: `Lei vuole`, non \"Lei vuoi\". Col barista, col cameriere, con chiunque non conosci:\nsempre Lei."
+      "grammar": "**Grammatica.** `Quanto Le devo?` letteralmente \"how much do I owe to you\", con `Le` che è\nil pronome di cortesia. È più naturale di `quanto costa` quando stai per pagare quello che\nhai già consumato. `Quanto costa` si usa prima, per una cosa sola.\n\nIl `Lei` di cortesia si scrive spesso con la maiuscola e prende il verbo alla terza persona\nsingolare: `Lei vuole`, non \"Lei vuoi\". Col barista, col cameriere, con chiunque non conosci:\nsempre Lei.",
+      "grammarEn": "**Grammar.** `Quanto Le devo?` literally \"how much do I owe to you\", with `Le` as the\nformal object pronoun. It is more natural than `quanto costa` when you are about to pay for\nsomething you have already consumed. `Quanto costa` is used earlier, for a single item.\n\nThe formal `Lei` is often capitalized and takes the verb in the third person singular:\n`Lei vuole`, never \"Lei vuoi\". With the barista, the waiter, anyone you do not know: always\nLei."
     },
     {
       "n": 5,
@@ -170,13 +176,23 @@
         "whyIt": "manca l'articolo nel superlativo relativo: \"il caffè più buono\"",
         "whyEn": "missing the article in the relative superlative: \"the best coffee\" needs \"il\""
       },
-      "grammar": "**Grammatica.** I prezzi si dicono senza la parola \"euro\" nel parlato veloce: `quattro e\ncinquanta` per 4,50 €. La `e` fa da virgola decimale. Se senti solo due numeri con una `e`\nin mezzo, è un prezzo.\n\nAttenzione culturale: la mancia non si fa quasi mai in Italia, e non è scortese non lasciarla.\nIl servizio è già dentro. `Tenga pure il resto` su pochi centesimi è normale, il 20% no."
+      "grammar": "**Grammatica.** I prezzi si dicono senza la parola \"euro\" nel parlato veloce: `quattro e\ncinquanta` per 4,50 €. La `e` fa da virgola decimale. Se senti solo due numeri con una `e`\nin mezzo, è un prezzo.\n\nAttenzione culturale: la mancia non si fa quasi mai in Italia, e non è scortese non lasciarla.\nIl servizio è già dentro. `Tenga pure il resto` su pochi centesimi è normale, il 20% no.",
+      "grammarEn": "**Grammar.** Prices are said without the word \"euro\" in fast speech: `quattro e cinquanta`\nfor €4.50. The `e` works as a decimal point. If you hear just two numbers with an `e` in\nbetween, it is a price.\n\nCultural note: tipping is almost never done in Italy, and it is not rude to skip it. The\nservice is already included. `Tenga pure il resto` over a few cents is normal, 20% is not."
     }
   ],
   "variants": [
-    "**I cornetti alla crema sono finiti.** Offro solo semplice o alla marmellata, e lo dico dopo che ha già ordinato quello alla crema.",
-    "**Inverto l'ordine dei turni**: chiedo `al banco o al tavolo?` per primo, prima ancora che abbia detto cosa vuole.",
-    "**Un turno non scritto**: gli chiedo da dove viene, così deve uscire dal copione e rientrarci. Serve a rompere la recitazione."
+    {
+      "it": "**I cornetti alla crema sono finiti.** Offro solo semplice o alla marmellata, e lo dico dopo che ha già ordinato quello alla crema.",
+      "en": "The cream croissants are out. I offer only plain or jam, and I say so after he has already ordered the cream one."
+    },
+    {
+      "it": "**Inverto l'ordine dei turni**: chiedo `al banco o al tavolo?` per primo, prima ancora che abbia detto cosa vuole.",
+      "en": "I swap the order of the turns: I ask `al banco o al tavolo?` first, before he has even said what he wants."
+    },
+    {
+      "it": "**Un turno non scritto**: gli chiedo da dove viene, così deve uscire dal copione e rientrarci. Serve a rompere la recitazione.",
+      "en": "An unscripted turn: I ask him where he is from, so he has to step outside the script and back in. It breaks the sense of reciting lines."
+    }
   ],
   "targetVocab": [
     {
@@ -241,5 +257,5 @@
     }
   ],
   "sourceSha": "unknown",
-  "builtAt": "2026-09-04T02:42:52Z"
+  "builtAt": "2026-09-04T03:31:52Z"
 }
