@@ -1,0 +1,197 @@
+{
+  "slug": "negozi-01-mercato-a-peso",
+  "title": "Al mercato, frutta e verdura a peso",
+  "category": "negozi",
+  "minPhase": 1,
+  "bank": "Mercato: frutta e verdura a peso, assaggiare, pagare",
+  "voice": "maschile",
+  "scene": "Mid-morning at an outdoor market. One vendor, a crowd behind you, and no prices you can point\nat without committing. This scene exists for one reason: it is the single best drill in the\nwhole program for `ne`, which is your open error. Every quantity you say here needs it.\n\nTwo habits to bring. Do not touch the produce; in Italy the vendor picks and you ask. And\nweight is in `chili` and `etti`: an `etto` is 100 grams, and it is the unit real people use\nfor anything you would buy in handfuls.",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "FRUTTIVENDOLO",
+      "line": "Buongiorno! Mi dica.",
+      "natural": "Good morning! Go ahead.",
+      "literal": "Good-day! To-me say-you-formal.",
+      "candidates": [
+        {
+          "it": "Buongiorno. Un chilo di pomodori, per favore.",
+          "en": "Good morning. A kilo of tomatoes, please.",
+          "noteIt": "minima, e nomina subito la quantità",
+          "noteEn": "minimal, and names the quantity right away"
+        },
+        {
+          "it": "Buongiorno! Vorrei un po' di frutta per cinque persone. Cosa mi consiglia?",
+          "en": "Good morning! I'd like some fruit for five people. What do you recommend?",
+          "noteIt": "frase intera che apre una conversazione",
+          "noteEn": "a full sentence that opens a conversation"
+        },
+        {
+          "it": "Buongiorno. Le pesche sono buone oggi?",
+          "en": "Good morning. Are the peaches good today?",
+          "noteIt": "rilancia con una domanda, e lui ti dirà sempre di sì",
+          "noteEn": "carries a question back, and he will always say yes"
+        }
+      ],
+      "distractor": {
+        "it": "Dammi un chilo di pomodori.",
+        "whyIt": "dà del tu a uno sconosciuto al mercato, serve \"mi dia\"",
+        "whyEn": "uses tu with a market stranger, needs \"mi dia\""
+      },
+      "grammar": "**Grammatica.** `Mi dica` è imperativo di cortesia di `dire`, esattamente come `dica pure`\ndel barista. Al mercato lo sentirai a ogni turno.\n\n`Un chilo di pomodori`: la preposizione `di` dopo ogni quantità è obbligatoria. `Un chilo di`,\n`un etto di`, `un po' di`, `una bottiglia di`. In inglese \"a kilo of\" ha la stessa forma, ma\ngli anglofoni la saltano appena la frase si allunga.\n\n`Cosa mi consiglia?` (= what do you recommend?) è la domanda più redditizia del viaggio. Vale\nal mercato, al ristorante, in enoteca. Da imparare oggi."
+    },
+    {
+      "n": 2,
+      "speaker": "FRUTTIVENDOLO",
+      "line": "Pomodori, benissimo. Quanti ne vuole? Un chilo, un chilo e mezzo?",
+      "natural": "Tomatoes, great. How many do you want? A kilo, a kilo and a half?",
+      "literal": "Tomatoes, very-well. How-many of-them want-you-formal? A kilo, a kilo and a half?",
+      "candidates": [
+        {
+          "it": "Un chilo va bene.",
+          "en": "A kilo is fine.",
+          "noteIt": "minima",
+          "noteEn": "minimal"
+        },
+        {
+          "it": "Ne prendo un chilo e mezzo, grazie.",
+          "en": "I'll take a kilo and a half, thanks.",
+          "noteIt": "**questa è la forma da rubare**",
+          "noteEn": "this is the one to steal"
+        },
+        {
+          "it": "Quanto viene al chilo?",
+          "en": "How much is it per kilo?",
+          "noteIt": "chiede il prezzo prima di impegnarsi",
+          "noteEn": "asks the price before committing"
+        }
+      ],
+      "distractor": {
+        "it": "Prendo un chilo e mezzo, grazie.",
+        "whyIt": "manca \"ne\": una quantità senza il nome della cosa vuole \"ne\"",
+        "whyEn": "missing \"ne\": a quantity without repeating the noun needs \"ne\""
+      },
+      "grammar": "**Grammatica, la più importante del file.** Guarda la sua domanda: `quanti **ne** vuole?`.\nNon dice \"quanti pomodori vuole\", perché i pomodori sono già stati nominati. Quel `ne`\nsignifica \"of them\", e non è facoltativo.\n\nLa regola, in una riga: **quantità senza il nome della cosa, allora serve `ne`.**\n\n| Sbagliato | Giusto | English |\n|---|---|---|\n| vorrei due | **ne** vorrei due | I'd like two |\n| prendo un chilo | **ne** prendo un chilo | I'll take a kilo |\n| voglio ancora | **ne** voglio ancora | I want some more |\n| quanti hai? | quanti **ne** hai? | how many do you have? |\n\nIl `ne` va **prima** del verbo coniugato, sempre. E nel passato prossimo tira anche\nl'accordo del participio (`ne ho presi due`), ma quello arriva più avanti; per adesso basta\nil presente.\n\n`Quanto viene?` è il modo colloquiale di chiedere il prezzo, più naturale di `quanto costa`\nquando stai contrattando una quantità. `Quanto viene al chilo?` = how much per kilo.\n\n**Coniugazione: PRENDERE** (to take, and the verb for ordering)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | prendo | `ne prendo due` |\n| tu | prendi | |\n| lui/lei/**Lei** | prende | `cosa prende?` = what will you have |\n| noi | prendiamo | |\n| voi | prendete | |\n| loro | prendono | |\n\nParticipio passato irregolare: `preso`. `Prendere` è il verbo naturale per ordinare\nqualsiasi cosa: `prendo un caffè` suona più italiano di `vorrei un caffè`, che resta\ncomunque perfetto e più cauto.\n\n**Coniugazione: VENIRE** (to come, and to cost)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | vengo | |\n| tu | vieni | |\n| lui/lei/**Lei** | viene | `quanto viene?` = how much does it come to |\n| noi | veniamo | |\n| voi | venite | |\n| loro | vengono | `quanto vengono?` per più cose |\n\nParticipio passato: `venuto`, e vuole l'ausiliare `essere` (`sono venuto`), non `avere`."
+    },
+    {
+      "n": 3,
+      "speaker": "FRUTTIVENDOLO",
+      "line": "Le pesche invece sono dolcissime oggi. Vuole assaggiare?",
+      "natural": "The peaches, on the other hand, are super sweet today. Do you want to taste one?",
+      "literal": "The peaches instead are very-sweet today. Want-you-formal to-taste?",
+      "candidates": [
+        {
+          "it": "Volentieri!",
+          "en": "Gladly!",
+          "noteIt": "il sì caldo, ed è il tuo ripasso",
+          "noteEn": "the warm yes, and it is your revision item"
+        },
+        {
+          "it": "Sì, volentieri, grazie. Mmh, buonissime. Ne prendo mezzo chilo.",
+          "en": "Yes, gladly, thanks. Mm, delicious. I'll take half a kilo of them.",
+          "noteIt": "accetta, reagisce, ordina",
+          "noteEn": "accepts, reacts, orders"
+        },
+        {
+          "it": "No grazie, magari un'altra volta. Sono di qui?",
+          "en": "No thanks, maybe another time. Are they local?",
+          "noteIt": "rifiuta senza chiudere la porta",
+          "noteEn": "declines without shutting the door"
+        }
+      ],
+      "distractor": {
+        "it": "Le pesche mi fanno piacere.",
+        "whyIt": "\"mi fa piacere\" è per proposte e inviti, non per il gradimento di un cibo offerto; si dice \"mi piacciono\" o \"volentieri\"",
+        "whyEn": "\"mi fa piacere\" is for offers and invitations, not for liking a food offered; say \"mi piacciono\" or \"volentieri\""
+      },
+      "grammar": "**Grammatica.** `Volentieri` è la risposta che ti manca. Al g28 hai detto \"un tramezzino mi\nfa piacere\", che è comprensibile ma non italiano. `Volentieri` copre \"yes please\", \"gladly\",\n\"I'd love to\", e vale per cibo, inviti, offerte, tutto.\n\n`Dolcissime` è il superlativo assoluto in `-issimo`, che concorda: `dolcissime` (pesche,\nfemminile plurale), `buonissimo`, `caldissimo`. Gli italiani lo usano in continuazione al\nposto di `molto` più aggettivo, e usarlo tu è la cosa più economica che puoi fare per\nsuonare meno da manuale.\n\n`Sono di qui?` (= are they local?) letteralmente \"are they from here\". Al mercato è la\ndomanda che ti fa fare bella figura, e spesso apre due minuti di conversazione vera.\n\n**Coniugazione: ASSAGGIARE** (to taste)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | assaggio | |\n| tu | assaggi | una sola `i` / one `i` only |\n| lui/lei/**Lei** | assaggia | |\n| noi | assaggiamo | |\n| voi | assaggiate | |\n| loro | assaggiano | |\n\nImperativo di cortesia: `assaggi`, e lo sentirai come offerta: `assaggi, assaggi!`. Nota\nche `vuole assaggiare?` mette il secondo verbo all'infinito, senza nessuna preposizione:\n`voglio mangiare`, `posso pagare`, `deve andare`. Con `volere`, `potere`, `dovere` non ci va\nmai `di` in mezzo."
+    },
+    {
+      "n": 4,
+      "speaker": "FRUTTIVENDOLO",
+      "line": "Altro? Ho della verdura molto bella, guardi.",
+      "natural": "Anything else? I've got some really nice vegetables, look.",
+      "literal": "Other? I-have some vegetables very beautiful, look-you-formal.",
+      "candidates": [
+        {
+          "it": "No, basta così, grazie.",
+          "en": "No, that's all, thanks.",
+          "noteIt": "la chiusura standard al mercato",
+          "noteEn": "the standard market close"
+        },
+        {
+          "it": "Sì, mi dia anche due zucchine e un po' di basilico.",
+          "en": "Yes, give me two courgettes and a bit of basil too.",
+          "noteIt": "aggiunge, col Lei",
+          "noteEn": "adds items, in the polite form"
+        },
+        {
+          "it": "Cosa c'è di buono in questo periodo?",
+          "en": "What's good this time of year?",
+          "noteIt": "domanda da vero cliente",
+          "noteEn": "a real regular's question"
+        }
+      ],
+      "distractor": {
+        "it": "Penso che le zucchine sono più fresche del mercato.",
+        "whyIt": "dopo \"penso che\" serve il congiuntivo: \"siano\", non \"sono\"",
+        "whyEn": "after \"penso che\" the subjunctive is required: \"siano\", not \"sono\""
+      },
+      "grammar": "**Grammatica.** `Basta così` (= that's enough, that's all) è come si chiude un acquisto in\nItalia. Al bar hai già imparato `va bene così`; al mercato si dice `basta così`. Sono\nfratelli.\n\n`Mi dia` è l'imperativo di cortesia di `dare`, e al mercato è più naturale di `vorrei`. Col\ntu sarebbe `dammi`. **Attenzione: questo è esattamente il tuo errore aperto numero uno.** Al\ng28 hai detto \"fammi vedere\" a un barista, che è il tu. Con uno sconosciuto la forma è `mi\nfaccia vedere`, `mi dia`, `mi dica`, `scusi`, `senta`. Il Lei ragionato ce l'hai; qui si\nallena il Lei automatico.\n\n`Della verdura`, `un po' di basilico`: l'articolo partitivo (`del`, `della`, `dei`, `delle`)\ntraduce l'inglese \"some\". `Ho della verdura` = I have some vegetables. Puoi anche saltarlo e\ndire `un po' di`, che è sempre corretto e più facile.\n\n**Coniugazione: DARE** (to give)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | do | senza accento / no accent |\n| tu | dai | |\n| lui/lei/**Lei** | dà | con l'accento, per distinguerlo da `da` (from) |\n| noi | diamo | |\n| voi | date | |\n| loro | danno | |\n\nImperativo di cortesia: `dia` (`mi dia due etti`). Col tu: `dammi`. Participio passato:\n`dato`."
+    },
+    {
+      "n": 5,
+      "speaker": "FRUTTIVENDOLO",
+      "line": "Allora, sono sei e quaranta. Glielo metto tutto in un sacchetto?",
+      "natural": "So, that's six forty. Shall I put it all in one bag for you?",
+      "literal": "So, are six and forty. To-you-it I-put all in a bag?",
+      "candidates": [
+        {
+          "it": "Sì, grazie. Ecco a Lei.",
+          "en": "Yes, thanks. Here you go.",
+          "noteIt": "minima e completa",
+          "noteEn": "minimal and complete"
+        },
+        {
+          "it": "Sì, va bene. Posso pagare con la carta?",
+          "en": "Yes, fine. Can I pay by card?",
+          "noteIt": "al mercato spesso no, chiedilo prima",
+          "noteEn": "at markets often no, so ask early"
+        },
+        {
+          "it": "Meglio due sacchetti, grazie, così non si schiacciano le pesche.",
+          "en": "Two bags is better, thanks, so the peaches don't get squashed.",
+          "noteIt": "frase lunga e utile, e umana",
+          "noteEn": "a long, useful, human sentence"
+        }
+      ],
+      "distractor": {
+        "it": "No, prendo sacchetto più grande.",
+        "whyIt": "manca l'articolo nel superlativo relativo: \"il sacchetto più grande\"",
+        "whyEn": "missing the article in the relative superlative: \"the biggest bag\" needs \"il\""
+      },
+      "grammar": "**Grammatica.** `Sei e quaranta` per 6,40 €, come al bar: la `e` fa da virgola decimale e la\nparola \"euro\" sparisce nel parlato veloce.\n\n`Glielo metto` è `gli` più `lo` fusi insieme: \"I'll put it for you\". Non devi produrlo, ma\nriconoscerlo sì, perché nei negozi lo sentirai in continuazione.\n\nPratico: al mercato il contante vince quasi sempre. Porta banconote piccole; se dai\ncinquanta euro per sei e quaranta ti guarderanno male, e a volte non avranno il resto.\n\n**Coniugazione: PESARE** (to weigh)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | peso | |\n| tu | pesi | |\n| lui/lei/**Lei** | pesa | `quanto pesa?` = how much does it weigh |\n| noi | pesiamo | |\n| voi | pesate | |\n| loro | pesano | |\n\nNota di sopravvivenza: al supermercato la frutta la pesi tu su una bilancia e stampi\nl'etichetta prima della cassa, altrimenti alla cassa ti rimandano indietro. Al mercato pesa\nlui. Due mondi diversi, stessa parola."
+    }
+  ],
+  "variants": [
+    "**I pomodori sono finiti.** Dopo che ha ordinato il chilo, gli dico che li ho finiti e gli propongo i datterini, che costano di più. Deve decidere e ridire la quantità, cioè usare `ne` una seconda volta sotto pressione.",
+    "**Sbaglio il conto a suo sfavore**, dicendo dodici e quaranta invece di sei e quaranta. Deve accorgersene e correggermi con gentilezza: `scusi, mi sembra troppo` è tutto quello che serve.",
+    "**Gli do del tu a metà scena** e comincio a chiacchierare veloce (da dove viene, quanti siete, cosa cucinate stasera). Deve reggere il piccolo cambio di registro senza perdere il filo della spesa."
+  ],
+  "targetVocab": [
+    "un chilo",
+    "mezzo chilo",
+    "un etto",
+    "ne prendo due",
+    "quanto viene",
+    "basta così",
+    "mi dia",
+    "assaggiare",
+    "dolcissime",
+    "sono di qui",
+    "il sacchetto",
+    "un po' di"
+  ],
+  "sourceSha": "unknown",
+  "builtAt": "2026-09-04T00:56:36Z"
+}

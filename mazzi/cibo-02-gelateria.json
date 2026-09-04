@@ -1,0 +1,197 @@
+{
+  "slug": "cibo-02-gelateria",
+  "title": "In gelateria",
+  "category": "cibo",
+  "minPhase": 1,
+  "bank": "Gelateria: gusti, coni, coppette, e il gusto che vuoi è terminato",
+  "voice": "maschile",
+  "scene": "After dinner, a gelateria with a queue behind you and about eight seconds to decide. Low\nstakes, high frequency: you will do this every single day of the trip, so it is the cheapest\nplace to make `ne`, quantities, and the polite form automatic.\n\nThe complication is built into the scene rather than saved for the varianti, because it is\nthe realistic one: the flavor you want is gone, and the answer has to come fast.\n\nOne piece of local literacy first. Many gelaterie make you pay at the till first and hand the\nreceipt to the person scooping (`prima si paga alla cassa`), while small neighborhood places\nlet you order and pay at the end. If you see a till by the door with a queue at it, that is\nyour first stop.",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "GELATAIO",
+      "line": "Buonasera! Coppetta o cono?",
+      "natural": "Good evening! Cup or cone?",
+      "literal": "Good-evening! Little-cup or cone?",
+      "candidates": [
+        {
+          "it": "Cono, grazie.",
+          "en": "Cone, thanks.",
+          "noteIt": "minima, e la risposta più comune",
+          "noteEn": "minimal, and the most common answer"
+        },
+        {
+          "it": "Buonasera. Un cono, per favore.",
+          "en": "Good evening. A cone, please.",
+          "noteIt": "frase intera con il saluto",
+          "noteEn": "a full sentence with the greeting"
+        },
+        {
+          "it": "Qual è la differenza di prezzo?",
+          "en": "What's the price difference?",
+          "noteIt": "quasi sempre nessuna, ma è la domanda giusta",
+          "noteEn": "almost always none, but it is the right question"
+        }
+      ],
+      "distractor": {
+        "it": "Dammi un cono.",
+        "whyIt": "dà del tu a uno sconosciuto, serve il Lei o \"vorrei un cono\"",
+        "whyEn": "uses tu with a stranger, needs Lei or \"vorrei un cono\""
+      },
+      "grammar": "**Grammatica.** `Coppetta` è il diminutivo di `coppa`, e i diminutivi in `-etto` / `-etta`\nsono ovunque nel cibo italiano: `tramezzino`, `panino`, `cornetto`, `spuntino`. Non\nsignificano sempre \"piccolo\": spesso segnalano solo affetto o familiarità.\n\nOrdinare senza verbo (`cono, grazie`) non è brusco, è la norma. Il verbo lo mettono i\nturisti."
+    },
+    {
+      "n": 2,
+      "speaker": "GELATAIO",
+      "line": "Da quanti gusti? La piccola ne prende due, la media tre.",
+      "natural": "How many flavors? The small takes two, the medium three.",
+      "literal": "Of how-many flavors? The small-one of-them takes two, the medium-one three.",
+      "candidates": [
+        {
+          "it": "Da due, grazie.",
+          "en": "Two, thanks.",
+          "noteIt": "minima",
+          "noteEn": "minimal"
+        },
+        {
+          "it": "La media, da tre gusti. Ne prendo tre, sì.",
+          "en": "The medium, three flavors. I'll take three of them, yes.",
+          "noteIt": "ripete la quantità col `ne`",
+          "noteEn": "repeats the quantity with `ne`"
+        },
+        {
+          "it": "Quali sono i gusti della casa?",
+          "en": "Which are your house flavors?",
+          "noteIt": "apre il consiglio, e spesso il migliore",
+          "noteEn": "opens up a recommendation, often the best one"
+        }
+      ],
+      "distractor": {
+        "it": "Prendo tre, la media.",
+        "whyIt": "manca \"ne\": \"prendo tre\" senza \"ne\" suona incompleto quando i gusti sono già nominati, serve \"ne prendo tre\"",
+        "whyEn": "missing \"ne\": \"prendo tre\" alone sounds incomplete once the flavors are already named, needs \"ne prendo tre\""
+      },
+      "grammar": "**Grammatica.** `Da` qui non significa \"from\". Con i gusti e le taglie indica di che cosa è\nfatta o composta una cosa: `un cono da tre gusti`, `una bottiglia da mezzo litro`, `una\nbanconota da venti`. È un uso che l'inglese non ha e che si impara solo per blocchi.\n\nNota di nuovo il suo `ne prende due`. È lo stesso `ne` del mercato: quantità senza il nome\ndella cosa, quindi `ne` obbligatorio, e sempre prima del verbo. Se dici `prendo tre` invece\ndi `ne prendo tre`, ti capiscono e ti segnano come straniero nello stesso istante.\n\nSu cosa mettere: due gusti dello stesso mondo funzionano meglio di due a caso. `Pistacchio e\nnocciola` sì; `limone e stracciatella` è una scelta che ti fa guardare male, con affetto."
+    },
+    {
+      "n": 3,
+      "speaker": "GELATAIO",
+      "line": "Mi dispiace, il pistacchio è finito. Le posso consigliare la nocciola, o il mandorla, che qui è buonissimo.",
+      "natural": "Sorry, the pistachio is finished. I can recommend the hazelnut, or the almond, which here is excellent.",
+      "literal": "To-me it-displeases, the pistachio is finished. To-you-formal I-can recommend the hazelnut, or the almond, that here is very-good.",
+      "candidates": [
+        {
+          "it": "Va bene, allora nocciola.",
+          "en": "OK, hazelnut then.",
+          "noteIt": "minima, e risolve subito",
+          "noteEn": "minimal, and settles it immediately"
+        },
+        {
+          "it": "Peccato! Allora prendo il mandorla, volentieri.",
+          "en": "Shame! I'll take the almond then, gladly.",
+          "noteIt": "reagisce da umano e accetta il consiglio",
+          "noteEn": "reacts like a human and takes the advice"
+        },
+        {
+          "it": "E lei quale mi consiglia tra i due?",
+          "en": "And which of the two do you recommend?",
+          "noteIt": "gli ridà la palla, mossa forte",
+          "noteEn": "hands it back to him, a strong move"
+        }
+      ],
+      "distractor": {
+        "it": "Penso che il mandorla è più buono, allora quello.",
+        "whyIt": "dopo \"penso che\" serve il congiuntivo: \"sia\", non \"è\"",
+        "whyEn": "after \"penso che\" the subjunctive is required: \"sia\", not \"è\""
+      },
+      "grammar": "**Grammatica.** `È finito` (= it's run out, it's finished) è la frase che sentirai per il\npesce al ristorante, per il gusto in gelateria, per la taglia in negozio. Concorda col\nsoggetto: `il pistacchio è finito`, `la nocciola è finita`, `i cornetti sono finiti`.\n\n`Peccato!` (= what a shame) da solo è un'esclamazione completa. Impararla ti evita di\ntradurre \"that's too bad\", che in italiano non ha un equivalente diretto e naturale.\n\n`Le posso consigliare` ha `Le` come pronome di cortesia indiretto: \"I can recommend to you\".\nNota che il pronome sta prima di tutto il gruppo verbale.\n\n**Coniugazione: FINIRE** (to finish, to run out), verbo in `-isc-`\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | finisco | |\n| tu | finisci | |\n| lui/lei/**Lei** | finisce | |\n| noi | finiamo | qui la `-isc-` sparisce / here the `-isc-` drops |\n| voi | finite | anche qui / here too |\n| loro | finiscono | |\n\nParticipio passato: `finito`. Nel senso di \"essere esaurito\" vuole l'ausiliare `essere`: `il\npistacchio è finito`. Nel senso di \"aver terminato un'azione\" vuole `avere`: `ho finito di\nmangiare`.\n\nQuella `-isc-` in mezzo non è un capriccio: un intero gruppo di verbi in `-ire` la prende, e\nsempre nelle stesse quattro persone (io, tu, lui, loro), mai in `noi` e `voi`.\n`Capire` fa lo stesso: `capisco`, `capisci`, `capisce`, `capiamo`, `capite`, `capiscono`.\n\n**Coniugazione: PREFERIRE** (to prefer), stesso gruppo in `-isc-`\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | preferisco | |\n| tu | preferisci | |\n| lui/lei/**Lei** | preferisce | `cosa preferisce?` |\n| noi | preferiamo | |\n| voi | preferite | |\n| loro | preferiscono | |\n\n`Preferisco` è il modo educato di dire no a una proposta senza rifiutarla: `preferisco la\nnocciola`, invece di \"non voglio il mandorla\"."
+    },
+    {
+      "n": 4,
+      "speaker": "GELATAIO",
+      "line": "Ci mette la panna? È gratis.",
+      "natural": "Do you want whipped cream on it? It's free.",
+      "literal": "On-it put-you the cream? Is free.",
+      "candidates": [
+        {
+          "it": "No grazie, va bene così.",
+          "en": "No thanks, it's fine as is.",
+          "noteIt": "il rifiuto standard, già tuo dal g28",
+          "noteEn": "the standard refusal, already yours since g28"
+        },
+        {
+          "it": "Sì, volentieri!",
+          "en": "Yes, gladly!",
+          "noteIt": "il sì caldo",
+          "noteEn": "the warm yes"
+        },
+        {
+          "it": "Un pochino, grazie. Non troppa.",
+          "en": "A little bit, thanks. Not too much.",
+          "noteIt": "precisa senza essere scortese",
+          "noteEn": "specific without being rude"
+        }
+      ],
+      "distractor": {
+        "it": "La panna mi fa piacere.",
+        "whyIt": "\"mi fa piacere\" per un oggetto concreto suona sbagliato, si dice \"sì, volentieri\" o \"sì, grazie\"",
+        "whyEn": "\"mi fa piacere\" for a concrete object sounds off, say \"sì, volentieri\" or \"sì, grazie\""
+      },
+      "grammar": "**Grammatica.** `Ci mette la panna?` usa `ci` come \"on it, in it\": lo stesso `ci` di `ci\nmetto lo zucchero`. È diverso dal `ci mette due minuti` del check-in, dove `ci` sta dentro\nuna formula di tempo. Non provare a razionalizzarli insieme; sono due blocchi da imparare\nseparati.\n\n`Va bene così` è la tua frase del g28 e vale ancora: rifiuta senza offendere, e chiude.\n\n`Un pochino` è il diminutivo di `un poco`, e ammorbidisce ogni richiesta. `Un attimino`\n(= just a sec) funziona uguale ed è quasi una parodia di sé stesso, ma lo dicono tutti.\n\n**Coniugazione: PIACERE** (to please), il verbo che funziona al contrario\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | piaccio | rara / rare |\n| tu | piaci | |\n| lui/lei/**Lei** | piace | `mi piace il gelato` |\n| noi | piacciamo | |\n| voi | piacete | |\n| loro | piacciono | `mi piacciono i gelati` |\n\nQui sta la trappola, ed è grossa. In italiano non sei tu a piacere il gelato: è il gelato che\npiace a te. Quindi il soggetto è la cosa, e il verbo concorda con **la cosa**, non con te.\n\n| Italiano | English (letterale) | English (vero) |\n|---|---|---|\n| mi piace il pistacchio | to me is pleasing the pistachio | I like pistachio |\n| mi piacciono i pistacchi | to me are pleasing the pistachios | I like pistachios |\n| ti è piaciuto? | to you was it pleasing? | did you like it? |\n\nRegola pratica: una cosa sola, `piace`; più cose, `piacciono`. Sbagliare qui è normalissimo\nper mesi, ma è anche il posto dove una correzione ti rende subito più chiaro."
+    },
+    {
+      "n": 5,
+      "speaker": "GELATAIO",
+      "line": "Sono quattro e cinquanta. Prima passi alla cassa, poi torni qui con lo scontrino.",
+      "natural": "That's four fifty. Go to the till first, then come back here with the receipt.",
+      "literal": "Are four and fifty. First pass-you at-the till, then return-you here with the receipt.",
+      "candidates": [
+        {
+          "it": "Va bene, grazie.",
+          "en": "OK, thanks.",
+          "noteIt": "minima",
+          "noteEn": "minimal"
+        },
+        {
+          "it": "Ah, prima la cassa. Va bene, torno subito.",
+          "en": "Ah, the till first. OK, I'll be right back.",
+          "noteIt": "conferma di aver capito la procedura",
+          "noteEn": "confirms he understood the procedure"
+        },
+        {
+          "it": "Scusi, la cassa è quella lì all'ingresso?",
+          "en": "Sorry, is the till that one by the entrance?",
+          "noteIt": "domanda pratica con un gesto",
+          "noteEn": "a practical question with a gesture"
+        }
+      ],
+      "distractor": {
+        "it": "Grazie, è gelato più buono della città!",
+        "whyIt": "manca l'articolo: \"è il gelato più buono\"",
+        "whyEn": "missing the article: \"it's the best gelato\" needs \"il\""
+      },
+      "grammar": "**Grammatica.** `Passi`, `torni`: altri due imperativi di cortesia, e ormai dovresti\nriconoscerli a orecchio. La `-i` finale su un verbo in `-are` che ti sta dando un'istruzione\nè quasi sempre il Lei.\n\n`Torno subito` (= I'll be right back) è presente usato per il futuro immediato. L'italiano lo\nfa in continuazione: `arrivo`, `vengo`, `pago io`, `ti chiamo dopo`. Il futuro grammaticale\nesiste, ma nel parlato quotidiano serve molto meno di quanto pensi.\n\n`Lo scontrino` è la ricevuta, ed è più importante di quanto sembri: in Italia si tiene fino a\nfuori dal locale."
+    }
+  ],
+  "variants": [
+    "**Faccio la fila dietro di lui rumorosa e gli metto fretta**, ripetendo `dica, dica` e parlando veloce. Deve ordinare in due turni invece di cinque, tagliando tutto il superfluo. Serve a smontare la recitazione.",
+    "**Finisce anche il secondo gusto** che sceglie, e la terza volta gli propongo di lasciar scegliere me. Deve accettare o rifiutare un consiglio non richiesto, e dire perché.",
+    "**Ordina per il gruppo**: cinque gelati, gusti diversi, uno senza latte. Deve tenere in piedi una lista con le quantità e usare `ne` almeno due volte senza pensarci."
+  ],
+  "targetVocab": [
+    "il cono",
+    "la coppetta",
+    "da tre gusti",
+    "è finito",
+    "peccato",
+    "la panna",
+    "un pochino",
+    "preferisco",
+    "mi piacciono",
+    "lo scontrino",
+    "la cassa",
+    "torno subito"
+  ],
+  "sourceSha": "unknown",
+  "builtAt": "2026-09-04T00:56:36Z"
+}

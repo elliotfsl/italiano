@@ -1,6 +1,6 @@
 # In gelateria
 
-Categoria: cibo · Fase minima: 1 · Banca scenari: "Gelateria: gusti, coni, coppette, e il gusto che vuoi è terminato"
+Categoria: cibo · Fase minima: 1 · Banca scenari: "Gelateria: gusti, coni, coppette, e il gusto che vuoi è terminato" · Voce: maschile
 
 ## Scena
 
@@ -20,12 +20,15 @@ your first stop.
 
 ### Turno 1 · GELATAIO: "Buonasera! Coppetta o cono?"
 *Good evening! Cup or cone?*
+*Letteralmente: Good-evening! Little-cup or cone?*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Cono, grazie. | Cone, thanks. | minima, e la risposta più comune / minimal, and the most common answer |
 | Buonasera. Un cono, per favore. | Good evening. A cone, please. | frase intera con il saluto / a full sentence with the greeting |
 | Qual è la differenza di prezzo? | What's the price difference? | quasi sempre nessuna, ma è la domanda giusta / almost always none, but it is the right question |
+
+**Distrattore.** "Dammi un cono." · dà del tu a uno sconosciuto, serve il Lei o "vorrei un cono" / uses tu with a stranger, needs Lei or "vorrei un cono"
 
 **Grammatica.** `Coppetta` è il diminutivo di `coppa`, e i diminutivi in `-etto` / `-etta`
 sono ovunque nel cibo italiano: `tramezzino`, `panino`, `cornetto`, `spuntino`. Non
@@ -36,12 +39,15 @@ turisti.
 
 ### Turno 2 · GELATAIO: "Da quanti gusti? La piccola ne prende due, la media tre."
 *How many flavors? The small takes two, the medium three.*
+*Letteralmente: Of how-many flavors? The small-one of-them takes two, the medium-one three.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Da due, grazie. | Two, thanks. | minima / minimal |
 | La media, da tre gusti. Ne prendo tre, sì. | The medium, three flavors. I'll take three of them, yes. | ripete la quantità col `ne` / repeats the quantity with `ne` |
 | Quali sono i gusti della casa? | Which are your house flavors? | apre il consiglio, e spesso il migliore / opens up a recommendation, often the best one |
+
+**Distrattore.** "Prendo tre, la media." · manca "ne": "prendo tre" senza "ne" suona incompleto quando i gusti sono già nominati, serve "ne prendo tre" / missing "ne": "prendo tre" alone sounds incomplete once the flavors are already named, needs "ne prendo tre"
 
 **Grammatica.** `Da` qui non significa "from". Con i gusti e le taglie indica di che cosa è
 fatta o composta una cosa: `un cono da tre gusti`, `una bottiglia da mezzo litro`, `una
@@ -56,12 +62,15 @@ nocciola` sì; `limone e stracciatella` è una scelta che ti fa guardare male, c
 
 ### Turno 3 · GELATAIO: "Mi dispiace, il pistacchio è finito. Le posso consigliare la nocciola, o il mandorla, che qui è buonissimo."
 *Sorry, the pistachio is finished. I can recommend the hazelnut, or the almond, which here is excellent.*
+*Letteralmente: To-me it-displeases, the pistachio is finished. To-you-formal I-can recommend the hazelnut, or the almond, that here is very-good.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Va bene, allora nocciola. | OK, hazelnut then. | minima, e risolve subito / minimal, and settles it immediately |
 | Peccato! Allora prendo il mandorla, volentieri. | Shame! I'll take the almond then, gladly. | reagisce da umano e accetta il consiglio / reacts like a human and takes the advice |
 | E lei quale mi consiglia tra i due? | And which of the two do you recommend? | gli ridà la palla, mossa forte / hands it back to him, a strong move |
+
+**Distrattore.** "Penso che il mandorla è più buono, allora quello." · dopo "penso che" serve il congiuntivo: "sia", non "è" / after "penso che" the subjunctive is required: "sia", not "è"
 
 **Grammatica.** `È finito` (= it's run out, it's finished) è la frase che sentirai per il
 pesce al ristorante, per il gusto in gelateria, per la taglia in negozio. Concorda col
@@ -108,12 +117,15 @@ nocciola`, invece di "non voglio il mandorla".
 
 ### Turno 4 · GELATAIO: "Ci mette la panna? È gratis."
 *Do you want whipped cream on it? It's free.*
+*Letteralmente: On-it put-you the cream? Is free.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | No grazie, va bene così. | No thanks, it's fine as is. | il rifiuto standard, già tuo dal g28 / the standard refusal, already yours since g28 |
 | Sì, volentieri! | Yes, gladly! | il sì caldo / the warm yes |
 | Un pochino, grazie. Non troppa. | A little bit, thanks. Not too much. | precisa senza essere scortese / specific without being rude |
+
+**Distrattore.** "La panna mi fa piacere." · "mi fa piacere" per un oggetto concreto suona sbagliato, si dice "sì, volentieri" o "sì, grazie" / "mi fa piacere" for a concrete object sounds off, say "sì, volentieri" or "sì, grazie"
 
 **Grammatica.** `Ci mette la panna?` usa `ci` come "on it, in it": lo stesso `ci` di `ci
 metto lo zucchero`. È diverso dal `ci mette due minuti` del check-in, dove `ci` sta dentro
@@ -150,12 +162,15 @@ per mesi, ma è anche il posto dove una correzione ti rende subito più chiaro.
 
 ### Turno 5 · GELATAIO: "Sono quattro e cinquanta. Prima passi alla cassa, poi torni qui con lo scontrino."
 *That's four fifty. Go to the till first, then come back here with the receipt.*
+*Letteralmente: Are four and fifty. First pass-you at-the till, then return-you here with the receipt.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Va bene, grazie. | OK, thanks. | minima / minimal |
 | Ah, prima la cassa. Va bene, torno subito. | Ah, the till first. OK, I'll be right back. | conferma di aver capito la procedura / confirms he understood the procedure |
 | Scusi, la cassa è quella lì all'ingresso? | Sorry, is the till that one by the entrance? | domanda pratica con un gesto / a practical question with a gesture |
+
+**Distrattore.** "Grazie, è gelato più buono della città!" · manca l'articolo: "è il gelato più buono" / missing the article: "it's the best gelato" needs "il"
 
 **Grammatica.** `Passi`, `torni`: altri due imperativi di cortesia, e ormai dovresti
 riconoscerli a orecchio. La `-i` finale su un verbo in `-are` che ti sta dando un'istruzione

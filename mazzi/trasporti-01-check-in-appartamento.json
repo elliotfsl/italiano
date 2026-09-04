@@ -1,0 +1,230 @@
+{
+  "slug": "trasporti-01-check-in-appartamento",
+  "title": "Check-in in appartamento",
+  "category": "trasporti",
+  "minPhase": 1,
+  "bank": "Check-in in appartamento con l'host: chiavi, wifi, parcheggio",
+  "voice": "femminile",
+  "scene": "Late afternoon, you have just parked and dragged five people's luggage to the door. The host\nmeets you there. This is not a hotel: there is no desk, no printed card, and everything you\nneed to know for the week gets said out loud, once, fast, in a doorway. Two American\nassumptions to drop: the building's street door (`il portone`) is a separate lock from the\napartment door, and parking is decided by the color of the lines painted on the street.\n\nYour job in this scene is not to speak much. It is to understand, and to ask again when you\ndo not. The most valuable sentence in the whole file is `può ripetere più lentamente?`.",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "HOST",
+      "line": "Buonasera! Lei è il signor Lombardo? Benvenuti! Avete fatto buon viaggio?",
+      "natural": "Good evening! Are you Mr. Lombardo? Welcome! Did you have a good trip?",
+      "literal": "Good-evening! You-formal are the Mr. Lombardo? Welcome-all! (You-all)-have made good trip?",
+      "candidates": [
+        {
+          "it": "Sì, sono io. Buonasera!",
+          "en": "Yes, that's me. Good evening!",
+          "noteIt": "minima e perfetta",
+          "noteEn": "minimal and perfect"
+        },
+        {
+          "it": "Sì, buonasera. Il viaggio è andato bene, grazie. Siamo un po' stanchi.",
+          "en": "Yes, good evening. The trip went well, thanks. We're a bit tired.",
+          "noteIt": "frase intera, e `stanchi` giustifica tutto quello che sbaglierai dopo",
+          "noteEn": "a full sentence, and \"tired\" excuses everything you get wrong later"
+        },
+        {
+          "it": "Buonasera! Sì, tutto bene. Lei è Marco, vero?",
+          "en": "Good evening! Yes, all good. You're Marco, right?",
+          "noteIt": "rilancia e conferma il nome",
+          "noteEn": "carries it back and confirms the name"
+        }
+      ],
+      "distractor": {
+        "it": "Sì, sono io, tu sei Marco?",
+        "whyIt": "dà del tu all'host al primo incontro, serve il Lei finché non lo offre lei",
+        "whyEn": "uses tu with the host at first meeting, stick to Lei until she offers otherwise"
+      },
+      "grammar": "**Grammatica.** `Sono io` è come si dice \"that's me\". Letteralmente \"I am I\", che in inglese\nnon esiste, ma in italiano è l'unica forma naturale quando qualcuno chiede se sei tu.\n\n`Avete fatto` è passato prossimo: `avere` coniugato più il participio passato. Non devi\nancora produrlo con sicurezza, ma questa domanda te la faranno a ogni arrivo del viaggio,\nquindi riconoscila subito. `Vero?` in fondo a una frase è il nostro \"right?\" e si usa\nmoltissimo.\n\n**Registro.** Ti dà del Lei perché non ti conosce. Tu daglielo indietro. Se dopo dieci\nminuti passa al tu, puoi seguirlo; non essere tu il primo."
+    },
+    {
+      "n": 2,
+      "speaker": "HOST",
+      "line": "Allora, queste sono le chiavi. La grande è del portone, la piccola è della porta di casa. Il portone si chiude sempre, mi raccomando.",
+      "natural": "So, these are the keys. The big one is for the street door, the small one for the apartment door. Always close the street door, please.",
+      "literal": "So, these are the keys. The big-one is of-the street-door, the small-one is of-the house door. The street-door itself closes always, to-me I-recommend.",
+      "candidates": [
+        {
+          "it": "Perfetto, grazie.",
+          "en": "Perfect, thanks.",
+          "noteIt": "minima",
+          "noteEn": "minimal"
+        },
+        {
+          "it": "Va bene. Quindi la grande giù e la piccola su, giusto?",
+          "en": "OK. So the big one downstairs and the small one upstairs, right?",
+          "noteIt": "ripete per confermare, mossa da adulto",
+          "noteEn": "repeats to confirm, a grown-up move"
+        },
+        {
+          "it": "Scusi, può ripetere? Quale è del portone?",
+          "en": "Sorry, can you repeat? Which one is for the street door?",
+          "noteIt": "la frase che ti salverà il viaggio",
+          "noteEn": "the phrase that will save your trip"
+        }
+      ],
+      "distractor": {
+        "it": "Va bene. Quindi la chiave grande sta giù e quella piccola sta su, giusto?",
+        "whyIt": "\"stare\" per la posizione statica di un oggetto è l'errore aperto; qui serve \"essere\": \"la chiave grande è giù\"",
+        "whyEn": "using \"stare\" for an object's static position is the open error pattern; \"essere\" is correct: \"la chiave grande è giù\""
+      },
+      "grammar": "**Grammatica.** `Allora` non significa niente di preciso. È il segnale che una spiegazione\nsta per cominciare, come \"so,\" o \"right then,\" in inglese. Sentirlo aprire un turno vuol\ndire: adesso arrivano le informazioni, ascolta.\n\n`Mi raccomando` (= I'm counting on you, please don't forget) non è una minaccia, è un \"per\nfavore\" insistito e affettuoso. Lo sentirai dieci volte al giorno.\n\n`Si chiude` è il si impersonale: \"one closes it\", \"it gets closed\". L'italiano lo usa dove\nl'inglese userebbe il passivo o \"you\". Stesso schema di `si paga`, `si mangia`, `come si\ndice`.\n\n**Coniugazione: FARE** (to do, to make)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | faccio | |\n| tu | fai | |\n| lui/lei/**Lei** | fa | `che tempo fa?` = what's the weather like |\n| noi | facciamo | |\n| voi | fate | |\n| loro | fanno | |\n\nPassato prossimo: `ho fatto`, `abbiamo fatto`. Imperativo di cortesia: `faccia`. `Fare` sta\ndentro decine di modi di dire: `fare colazione` (to have breakfast), `fare la spesa` (to do\nthe grocery shopping), `fare una domanda` (to ask a question).\n\n**Coniugazione: APRIRE** (to open) e **CHIUDERE** (to close)\n\n| Persona | aprire | chiudere |\n|---|---|---|\n| io | apro | chiudo |\n| tu | apri | chiudi |\n| lui/lei/**Lei** | apre | chiude |\n| noi | apriamo | chiudiamo |\n| voi | aprite | chiudete |\n| loro | aprono | chiudono |\n\nImperativo di cortesia: `apra`, `chiuda`. Participio passato irregolare per tutti e due:\n`aperto`, `chiuso`. Li vedrai scritti sulla porta di ogni negozio d'Italia."
+    },
+    {
+      "n": 3,
+      "speaker": "HOST",
+      "line": "Il wifi: la rete si chiama Casa Marina, la password è scritta sul frigorifero. Se non funziona, stacchi il router e lo riattacchi dopo un minuto.",
+      "natural": "The wifi: the network is called Casa Marina, the password is written on the fridge. If it doesn't work, unplug the router and plug it back in after a minute.",
+      "literal": "The wifi: the network itself is-called Casa Marina, the password is written on-the fridge. If not it-works, unplug-you the router and it re-plug-you after a minute.",
+      "candidates": [
+        {
+          "it": "Benissimo, grazie.",
+          "en": "Great, thanks.",
+          "noteIt": "minima",
+          "noteEn": "minimal"
+        },
+        {
+          "it": "Ah, sul frigorifero. Va bene, la cerco dopo.",
+          "en": "Ah, on the fridge. OK, I'll look for it later.",
+          "noteIt": "mostra che ha preso il dettaglio",
+          "noteEn": "shows he caught the detail"
+        },
+        {
+          "it": "Scusi, il router dov'è?",
+          "en": "Sorry, where's the router?",
+          "noteIt": "domanda pratica, la farai davvero",
+          "noteEn": "a practical question, you will really ask it"
+        }
+      ],
+      "distractor": {
+        "it": "Penso che la password è sul frigorifero.",
+        "whyIt": "manca il congiuntivo dopo \"penso che\": \"sia\", non \"è\"",
+        "whyEn": "missing the subjunctive after \"penso che\": \"sia\", not \"è\""
+      },
+      "grammar": "**Grammatica.** `Stacchi` e `riattacchi` sono imperativi di cortesia (terza persona), non\npresenti indicativi: ti sta dando istruzioni dandoti del Lei. A uno a cui desse del tu\ndirebbe `stacca` e `riattacca`. Questa differenza di una vocale è tutto il Lei.\n\n`Se non funziona` = \"if it doesn't work\". Frase da imparare intera: la userai per il wifi,\nper l'acqua calda, per il parchimetro, per il bancomat.\n\n**Coniugazione: FUNZIONARE** (to work, said of a thing)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | funziono | quasi mai usata / almost never used |\n| tu | funzioni | |\n| lui/lei/**Lei** | funziona | questa è quella vera / this is the real one |\n| noi | funzioniamo | |\n| voi | funzionate | |\n| loro | funzionano | `le luci non funzionano` |\n\nAttenzione: `funzionare` vale per le cose. Per le persone che lavorano si usa `lavorare`.\n\"Does it work?\" su un oggetto è `funziona?`, mai \"lavora?\".\n\n**Coniugazione: LASCIARE** (to leave something, to let)\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | lascio | |\n| tu | lasci | una sola `i`, non \"lascii\" |\n| lui/lei/**Lei** | lascia | |\n| noi | lasciamo | |\n| voi | lasciate | |\n| loro | lasciano | |\n\nImperativo di cortesia: `lasci`. `Lasciare` è \"to leave an object somewhere\" (`lascio la\nvaligia qui`). Per \"to leave a place\" si usa `partire` o `uscire`. È un errore classico\ndegli anglofoni."
+    },
+    {
+      "n": 4,
+      "speaker": "HOST",
+      "line": "Per la macchina: nelle strisce blu si paga fino alle otto di sera, dopo è gratis. Le strisce bianche sono libere, ma qui in centro non ne trova quasi mai.",
+      "natural": "For the car: in the blue lines you pay until eight in the evening, after that it's free. The white lines are free parking, but here in the center you'll almost never find any.",
+      "literal": "For the car: in-the blue lines itself one-pays until at-the eight of evening, after is free. The white lines are free, but here in center not of-them find-you almost never.",
+      "candidates": [
+        {
+          "it": "Capito, grazie.",
+          "en": "Got it, thanks.",
+          "noteIt": "`capito` da solo è correttissimo",
+          "noteEn": "\"capito\" on its own is perfectly correct"
+        },
+        {
+          "it": "Quindi dopo le otto posso lasciare la macchina nelle strisce blu senza pagare?",
+          "en": "So after eight I can leave the car in the blue lines without paying?",
+          "noteIt": "riformula per essere sicuro, ottima mossa",
+          "noteEn": "reformulates to be sure, an excellent move"
+        },
+        {
+          "it": "E il parchimetro dov'è? Si paga con la carta?",
+          "en": "And where's the meter? Can you pay by card?",
+          "noteIt": "due domande utilissime",
+          "noteEn": "two very useful questions"
+        }
+      ],
+      "distractor": {
+        "it": "Quindi dopo le otto posso lasciare la macchina nelle strisce blu senza pagare, e nelle bianche non trovo mai.",
+        "whyIt": "manca \"ne\": \"non ne trovo mai\" quando non si ripete il nome del posto libero",
+        "whyEn": "missing \"ne\": \"non ne trovo mai\" when not repeating the noun for the free spot"
+      },
+      "grammar": "**Grammatica.** Il colore delle righe è la regola del parcheggio in tutta Italia: **blu** = a\npagamento, **bianche** = gratis, **gialle** = riservate, non ci parcheggiare mai.\n\n`Ne trova` contiene il `ne` che è il tuo errore aperto numero due. `Ne` sostituisce \"di\nquella cosa\" e in italiano non è facoltativo: `non ne trova` = \"you won't find any of them\".\nRegola dura: ogni volta che dici una quantità senza ripetere il nome della cosa, ti serve\n`ne`. \"I'd like two\" non è `vorrei due`, è `ne vorrei due`. Lo rivedrai al mercato, perché è\nla cosa più italiana che c'è.\n\n`Fino alle otto` = until eight. `Alle` è `a + le`, perché le ore sono femminili plurali. Le\nore in italiano vogliono sempre l'articolo: `alle otto`, `alle dieci`, ma `a mezzogiorno`."
+    },
+    {
+      "n": 5,
+      "speaker": "HOST",
+      "line": "Ah, e l'acqua calda ci mette un paio di minuti. Non si preoccupi se all'inizio esce fredda.",
+      "natural": "Oh, and the hot water takes a couple of minutes. Don't worry if it comes out cold at first.",
+      "literal": "Ah, and the water hot it-puts a pair of minutes. Not itself worry-you if at-the-beginning it-comes-out cold.",
+      "candidates": [
+        {
+          "it": "Va bene, grazie per avermelo detto.",
+          "en": "OK, thanks for telling me.",
+          "noteIt": "gentile e naturale",
+          "noteEn": "kind and natural"
+        },
+        {
+          "it": "Un paio di minuti, va bene. E il riscaldamento come si accende?",
+          "en": "A couple of minutes, fine. And how do you turn the heating on?",
+          "noteIt": "accetta e aggiunge una domanda",
+          "noteEn": "accepts and adds a question"
+        },
+        {
+          "it": "Ah, meno male. Pensavo di aver sbagliato qualcosa.",
+          "en": "Ah, thank goodness. I thought I'd done something wrong.",
+          "noteIt": "umano, e strappa una risata",
+          "noteEn": "human, and gets a laugh"
+        }
+      ],
+      "distractor": {
+        "it": "Va bene, è acqua più calda di sempre quando arriva!",
+        "whyIt": "manca l'articolo: \"è l'acqua più calda\"",
+        "whyEn": "missing the article: \"it's the hottest water\" needs \"l'\""
+      },
+      "grammar": "**Grammatica.** `Ci mette` = \"it takes\", parlando di tempo. Schema: `ci mette due minuti`,\n`ci vuole un'ora`, `ci vogliono due ore`. È uno degli schemi più usati e più lontani\ndall'inglese, che qui dice solo \"takes\".\n\n`Non si preoccupi` è ancora imperativo di cortesia, e per di più riflessivo: la forma col tu\nsarebbe `non ti preoccupare`. Sentirla è il segnale che qualcuno ti sta rassicurando.\n\n`Meno male` (= thank goodness, just as well) non ha una traduzione letterale utile. Impara il\nblocco intero.\n\n**Coniugazione: METTERE** (to put), da cui la formula `ci mette`\n\n| Persona | Presente | Nota |\n|---|---|---|\n| io | metto | |\n| tu | metti | |\n| lui/lei/**Lei** | mette | `ci mette` = it takes (time) |\n| noi | mettiamo | |\n| voi | mettete | |\n| loro | mettono | |\n\nParticipio passato irregolare: `messo`. Imperativo di cortesia: `metta`."
+    },
+    {
+      "n": 6,
+      "speaker": "HOST",
+      "line": "Il check-out è alle dieci. Se avete bisogno di qualcosa, mi scriva pure su WhatsApp, a qualsiasi ora.",
+      "natural": "Check-out is at ten. If you need anything, just message me on WhatsApp, any time.",
+      "literal": "The check-out is at-the ten. If (you-all)-have need of something, to-me write-you freely on WhatsApp, at any hour.",
+      "candidates": [
+        {
+          "it": "Perfetto. Grazie mille, molto gentile.",
+          "en": "Perfect. Thanks so much, very kind of you.",
+          "noteIt": "la chiusura standard",
+          "noteEn": "the standard close"
+        },
+        {
+          "it": "Grazie. Le scrivo se abbiamo problemi. Buonasera!",
+          "en": "Thanks. I'll write to you if we have problems. Good evening!",
+          "noteIt": "usa il `Le` di cortesia come pronome",
+          "noteEn": "uses the polite Le as an object pronoun"
+        },
+        {
+          "it": "Grazie mille. Un'ultima cosa: ci consiglia un posto per cena qui vicino?",
+          "en": "Thanks a lot. One last thing: can you recommend somewhere for dinner nearby?",
+          "noteIt": "trasforma il check-in in informazioni vere",
+          "noteEn": "turns the check-in into real intel"
+        }
+      ],
+      "distractor": {
+        "it": "Va bene, mi fa piacere il WhatsApp.",
+        "whyIt": "\"mi fa piacere\" per un oggetto o servizio suona strano, si dice \"va bene\" o \"perfetto\"",
+        "whyEn": "\"mi fa piacere\" for an object or service sounds off, say \"va bene\" or \"perfetto\""
+      },
+      "grammar": "**Grammatica.** `Avete bisogno di` = \"you need\". L'italiano dice letteralmente \"you have need\nof\", e la preposizione `di` è obbligatoria: `ho bisogno di un taxi`, mai \"ho bisogno un\ntaxi\". Con un verbo: `ho bisogno di dormire`.\n\n`Mi scriva pure`: `pure` dopo un imperativo lo ammorbidisce fino a trasformarlo in un invito.\n`Dica pure`, `entri pure`, `si accomodi pure`. Non aggiunge significato, aggiunge calore.\n\n`Molto gentile` da solo, senza verbo, è il complimento standard a chi ti ha aiutato. Da\nrubare.\n\n**Coniugazione: SAPERE** (to know a fact) e **STARE** (to be, to stay)\n\n| Persona | sapere | stare |\n|---|---|---|\n| io | so | sto |\n| tu | sai | stai |\n| lui/lei/**Lei** | sa | sta |\n| noi | sappiamo | stiamo |\n| voi | sapete | state |\n| loro | sanno | stanno |\n\n`Non lo so` (I don't know) è tra le cinque frasi che dirai di più. `Sapere` è per i fatti e\nle abilità (`so nuotare`); `conoscere` è per le persone e i posti (`conosco Roma`).\n\n`Stare` non è un doppione di `essere`. Vale per la salute (`come sta?`), per il restare\n(`stiamo tre notti`), e per il presente progressivo (`sto mangiando`). Il tuo errore aperto è\nl'opposto: hai usato `stare` per la posizione, dove va `essere`. La posizione nello spazio è\n`essere`: `sono davanti a te`, non \"sto davanti a te\"."
+    }
+  ],
+  "variants": [
+    "**Una chiave non gira.** Dopo avergli dato le chiavi, gli dico che la piccola a volte fa i capricci e va tirata verso di sé mentre si gira. Deve farmi ripetere finché non ha capito davvero il gesto, non solo le parole.",
+    "**Parlo veloce e senza pause sui parcheggi**, e aggiungo che il martedì mattina c'è il mercato e la strada si svuota per forza. Deve fermarmi con `può ripetere più lentamente, per favore?` invece di annuire e sperare.",
+    "**Chiedo io a lui**: da dove venite, quanti siete, quanto vi fermate. Deve rispondere con numeri e date senza preparazione, e poi rientrare nel check-in."
+  ],
+  "targetVocab": [
+    "il portone",
+    "le chiavi",
+    "la rete",
+    "non funziona",
+    "le strisce blu",
+    "il parchimetro",
+    "ci mette due minuti",
+    "ho bisogno di",
+    "mi raccomando",
+    "può ripetere più lentamente",
+    "meno male",
+    "il check-out"
+  ],
+  "sourceSha": "unknown",
+  "builtAt": "2026-09-04T00:56:36Z"
+}

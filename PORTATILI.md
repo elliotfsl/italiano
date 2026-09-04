@@ -44,7 +44,7 @@ than inventing content.
 POST-MORTEM ITALIANO
 Giorno: <NN, da STATUS.md>
 Data: <YYYY-MM-DD della sessione>
-Modo: <pacchetto portatile | specchio pubblico>, voce
+Modo: <pacchetto portatile | specchio pubblico | app>, voce
 Fase: <da STATUS.md>
 Tema: <dialogo o benchmark di oggi>
 
@@ -108,6 +108,9 @@ When Elliot pastes one or more post-mortems into a repo session, treat it exactl
 Dates: the post-mortem carries the date the session actually ran. Use that, not today's date, so the calendar and the day counter stay honest. If several post-mortems arrive at once, ingest them oldest first, one cohort each.
 
 If a post-mortem is partial or malformed, ingest what is there and note the gap in the log rather than inventing content. A missing vocab list is better recorded as missing than filled with guesses.
+
+A post-mortem with `Modo: app` counts as a session day exactly like `pacchetto portatile` or
+`specchio pubblico` (decided metà settembre): same ingestion steps, same day counter, same streak.
 
 ## Choosing a mode day to day
 

@@ -1,0 +1,195 @@
+{
+  "slug": "cibo-01-colazione-bar",
+  "title": "Colazione al bar",
+  "category": "cibo",
+  "minPhase": 1,
+  "bank": "Colazione al bar: ordinare cappuccino e cornetto, capire banco vs tavolo",
+  "voice": "femminile",
+  "scene": "Morning, a busy bar. You are one of five tourists but you are ordering alone, standing at\nthe counter. Two things trip up Americans here: Italians drink coffee standing at the bar,\nand sitting at a table can cost two or three times as much for the same cup. You pay at the\nend, not up front.",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "BARISTA",
+      "line": "Buongiorno! Dica pure.",
+      "natural": "Good morning! Go ahead.",
+      "literal": "Good-day! Say-you freely.",
+      "candidates": [
+        {
+          "it": "Buongiorno, vorrei un cappuccino e un cornetto.",
+          "en": "Good morning, I'd like a cappuccino and a croissant.",
+          "noteIt": "completa e sicura",
+          "noteEn": "full and safe"
+        },
+        {
+          "it": "Buongiorno! Un cappuccino e un cornetto, per favore.",
+          "en": "Good morning! A cappuccino and a croissant, please.",
+          "noteIt": "senza verbo, il modo più comune",
+          "noteEn": "verbless, the most common way of all"
+        },
+        {
+          "it": "Salve, posso avere un caffè macchiato?",
+          "en": "Hi, can I have a macchiato?",
+          "noteIt": "rilancia con una domanda",
+          "noteEn": "carries a question back"
+        }
+      ],
+      "distractor": {
+        "it": "Dammi un cappuccino e un cornetto.",
+        "whyIt": "dà del tu a uno sconosciuto, serve il Lei o l'imperativo di cortesia",
+        "whyEn": "uses tu with a stranger, needs Lei or the polite imperative"
+      },
+      "grammar": "**Grammatica.** `vorrei` è il condizionale di `volere` ed è la parola più utile del viaggio.\n`Voglio` (I want) suona brusco, quasi da bambino capriccioso. `Vorrei` è quello che dice la\ngente vera. Nota che la seconda opzione non ha nessun verbo: in Italia si ordina spessissimo\nnominando solo la cosa. Non è pigrizia, è la norma.\n\n`Salve` è il saluto che salva quando non sai se dare del tu o del Lei. Funziona sempre."
+    },
+    {
+      "n": 2,
+      "speaker": "BARISTA",
+      "line": "Al banco o al tavolo?",
+      "natural": "At the counter or at a table?",
+      "literal": "At-the counter or at-the table?",
+      "candidates": [
+        {
+          "it": "Al banco, grazie.",
+          "en": "At the counter, thanks.",
+          "noteIt": "la risposta giusta il 90% delle volte",
+          "noteEn": "the right answer 90% of the time"
+        },
+        {
+          "it": "Al tavolo, se possibile.",
+          "en": "At a table, if possible.",
+          "noteIt": "sappi che costa di più",
+          "noteEn": "know it costs more"
+        },
+        {
+          "it": "Qual è la differenza di prezzo?",
+          "en": "What's the price difference?",
+          "noteIt": "domanda utilissima, e da locale",
+          "noteEn": "very useful question, and a local's move"
+        }
+      ],
+      "distractor": {
+        "it": "Il tavolo mi fa piacere.",
+        "whyIt": "\"mi fa piacere\" si usa per azioni e inviti, non per un oggetto scelto; si dice \"il tavolo va bene\"",
+        "whyEn": "\"mi fa piacere\" is for actions and invitations, not a chosen object; say \"il tavolo va bene\""
+      },
+      "grammar": "**Grammatica.** `Al` = `a + il`. L'italiano fonde preposizione e articolo e non è\nfacoltativo: `a + il` = al, `a + la` = alla, `a + lo` = allo, `in + il` = nel, `di + il` =\ndel. Questa fusione tornerà in ogni singola sessione."
+    },
+    {
+      "n": 3,
+      "speaker": "BARISTA",
+      "line": "Il cornetto lo vuole semplice, alla crema o alla marmellata?",
+      "natural": "Do you want the croissant plain, with cream, or with jam?",
+      "literal": "The croissant it want-you plain, at-the cream or at-the jam?",
+      "candidates": [
+        {
+          "it": "Alla crema, grazie.",
+          "en": "With cream, thanks.",
+          "noteIt": "minima, perfetta",
+          "noteEn": "minimal, perfect"
+        },
+        {
+          "it": "Semplice va benissimo.",
+          "en": "Plain is perfect.",
+          "noteIt": "`va benissimo` = utilissimo per accettare",
+          "noteEn": "super useful for accepting anything"
+        },
+        {
+          "it": "Qual è il migliore secondo Lei?",
+          "en": "Which is the best in your opinion?",
+          "noteIt": "apre una conversazione vera",
+          "noteEn": "opens a real conversation"
+        }
+      ],
+      "distractor": {
+        "it": "Penso che la crema è la scelta migliore.",
+        "whyIt": "dopo \"penso che\" serve il congiuntivo: \"sia\", non \"è\"",
+        "whyEn": "after \"penso che\" the subjunctive is required: \"sia\", not \"è\""
+      },
+      "grammar": "**Grammatica.** Due cose qui.\n\n`Alla crema`, `alla marmellata`: si usa `a + articolo` per dire di che cosa è farcito o\ncondito qualcosa. Stesso schema di `pasta al pomodoro`, `gelato al pistacchio`.\n\n`Lo vuole` ha un pronome oggetto prima del verbo. In italiano il pronome oggetto va davanti\nal verbo coniugato, non dopo: `lo voglio`, mai \"voglio lo\". L'inglese fa il contrario, quindi\nquesta è una che si sbaglia per mesi. Non devi ancora produrla, ma riconoscila."
+    },
+    {
+      "n": 4,
+      "speaker": "BARISTA",
+      "line": "Ecco a Lei. Altro?",
+      "natural": "Here you go. Anything else?",
+      "literal": "Here-is to-you-formal. Other?",
+      "candidates": [
+        {
+          "it": "No, così va bene, grazie.",
+          "en": "No, that's fine, thanks.",
+          "noteIt": "il modo standard di chiudere",
+          "noteEn": "the standard way to wrap up"
+        },
+        {
+          "it": "Sì, anche un bicchiere d'acqua, per favore.",
+          "en": "Yes, a glass of water too, please.",
+          "noteIt": "aggiunge una cosa",
+          "noteEn": "adds an item"
+        },
+        {
+          "it": "No, grazie. Quanto Le devo?",
+          "en": "No thanks. What do I owe you?",
+          "noteIt": "chiude e chiede il conto",
+          "noteEn": "closes and asks for the bill"
+        }
+      ],
+      "distractor": {
+        "it": "Sì, prendo ancora uno.",
+        "whyIt": "manca \"ne\": una quantità senza il nome della cosa vuole \"ne\", cioè \"ne prendo ancora uno\"",
+        "whyEn": "missing \"ne\": a quantity without repeating the noun needs \"ne\", i.e. \"ne prendo ancora uno\""
+      },
+      "grammar": "**Grammatica.** `Quanto Le devo?` letteralmente \"how much do I owe to you\", con `Le` che è\nil pronome di cortesia. È più naturale di `quanto costa` quando stai per pagare quello che\nhai già consumato. `Quanto costa` si usa prima, per una cosa sola.\n\nIl `Lei` di cortesia si scrive spesso con la maiuscola e prende il verbo alla terza persona\nsingolare: `Lei vuole`, non \"Lei vuoi\". Col barista, col cameriere, con chiunque non conosci:\nsempre Lei."
+    },
+    {
+      "n": 5,
+      "speaker": "BARISTA",
+      "line": "Sono quattro e cinquanta.",
+      "natural": "That's four fifty.",
+      "literal": "Are four and fifty.",
+      "candidates": [
+        {
+          "it": "Ecco a Lei.",
+          "en": "Here you go.",
+          "noteIt": "passandogli i soldi",
+          "noteEn": "while handing over the money"
+        },
+        {
+          "it": "Posso pagare con la carta?",
+          "en": "Can I pay by card?",
+          "noteIt": "quasi sempre sì, anche per 2 euro",
+          "noteEn": "almost always yes, even for 2 euros"
+        },
+        {
+          "it": "Ecco, tenga pure il resto.",
+          "en": "Here, keep the change.",
+          "noteIt": "non obbligatorio in Italia, ma gentile",
+          "noteEn": "not expected in Italy, but kind"
+        }
+      ],
+      "distractor": {
+        "it": "Questo è caffè più buono della città!",
+        "whyIt": "manca l'articolo nel superlativo relativo: \"il caffè più buono\"",
+        "whyEn": "missing the article in the relative superlative: \"the best coffee\" needs \"il\""
+      },
+      "grammar": "**Grammatica.** I prezzi si dicono senza la parola \"euro\" nel parlato veloce: `quattro e\ncinquanta` per 4,50 €. La `e` fa da virgola decimale. Se senti solo due numeri con una `e`\nin mezzo, è un prezzo.\n\nAttenzione culturale: la mancia non si fa quasi mai in Italia, e non è scortese non lasciarla.\nIl servizio è già dentro. `Tenga pure il resto` su pochi centesimi è normale, il 20% no."
+    }
+  ],
+  "variants": [
+    "**I cornetti alla crema sono finiti.** Offro solo semplice o alla marmellata, e lo dico dopo che ha già ordinato quello alla crema.",
+    "**Inverto l'ordine dei turni**: chiedo `al banco o al tavolo?` per primo, prima ancora che abbia detto cosa vuole.",
+    "**Un turno non scritto**: gli chiedo da dove viene, così deve uscire dal copione e rientrarci. Serve a rompere la recitazione."
+  ],
+  "targetVocab": [
+    "vorrei",
+    "dica pure",
+    "al banco",
+    "al tavolo",
+    "alla crema",
+    "va benissimo",
+    "quanto Le devo",
+    "il resto",
+    "lo scontrino",
+    "salve"
+  ],
+  "sourceSha": "unknown",
+  "builtAt": "2026-09-04T00:56:36Z"
+}

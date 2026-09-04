@@ -76,6 +76,10 @@ che gliele si debba ridire.
    La scena resta in italiano, ma l'insegnamento intorno alla scena deve essere leggibile da
    un A1/A2 stanco. Un'analisi solo in italiano è inutilizzabile proprio dalla persona per
    cui esiste.
+7. **Tre elementi obbligatori per l'app**: `Voce: maschile|femminile` nell'intestazione, una
+   riga `*Letteralmente: ...*` sotto la traduzione naturale di ogni turno, e un
+   `**Distrattore.**` dopo la tabella delle risposte candidate. Il contratto esatto, che
+   `tools/build_mazzi.py` valida nella sync, è in `../docs/mazzo.md`.
 
 In ogni tabella di coniugazione la colonna della terza persona singolare va segnata come
 `lui/lei/**Lei**`. Il suo errore più grosso e più frequente è dare del tu agli sconosciuti,

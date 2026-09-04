@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "cibo-01-colazione-bar",
+    "title": "Colazione al bar",
+    "category": "cibo",
+    "minPhase": 1,
+    "voice": "femminile",
+    "turnCount": 5
+  },
+  {
+    "slug": "cibo-02-gelateria",
+    "title": "In gelateria",
+    "category": "cibo",
+    "minPhase": 1,
+    "voice": "maschile",
+    "turnCount": 5
+  },
+  {
+    "slug": "negozi-01-mercato-a-peso",
+    "title": "Al mercato, frutta e verdura a peso",
+    "category": "negozi",
+    "minPhase": 1,
+    "voice": "maschile",
+    "turnCount": 5
+  },
+  {
+    "slug": "trasporti-01-check-in-appartamento",
+    "title": "Check-in in appartamento",
+    "category": "trasporti",
+    "minPhase": 1,
+    "voice": "femminile",
+    "turnCount": 6
+  }
+]

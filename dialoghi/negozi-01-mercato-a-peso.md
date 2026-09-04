@@ -1,6 +1,6 @@
 # Al mercato, frutta e verdura a peso
 
-Categoria: negozi · Fase minima: 1 · Banca scenari: "Mercato: frutta e verdura a peso, assaggiare, pagare"
+Categoria: negozi · Fase minima: 1 · Banca scenari: "Mercato: frutta e verdura a peso, assaggiare, pagare" · Voce: maschile
 
 ## Scena
 
@@ -16,12 +16,15 @@ for anything you would buy in handfuls.
 
 ### Turno 1 · FRUTTIVENDOLO: "Buongiorno! Mi dica."
 *Good morning! Go ahead.*
+*Letteralmente: Good-day! To-me say-you-formal.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Buongiorno. Un chilo di pomodori, per favore. | Good morning. A kilo of tomatoes, please. | minima, e nomina subito la quantità / minimal, and names the quantity right away |
 | Buongiorno! Vorrei un po' di frutta per cinque persone. Cosa mi consiglia? | Good morning! I'd like some fruit for five people. What do you recommend? | frase intera che apre una conversazione / a full sentence that opens a conversation |
 | Buongiorno. Le pesche sono buone oggi? | Good morning. Are the peaches good today? | rilancia con una domanda, e lui ti dirà sempre di sì / carries a question back, and he will always say yes |
+
+**Distrattore.** "Dammi un chilo di pomodori." · dà del tu a uno sconosciuto al mercato, serve "mi dia" / uses tu with a market stranger, needs "mi dia"
 
 **Grammatica.** `Mi dica` è imperativo di cortesia di `dire`, esattamente come `dica pure`
 del barista. Al mercato lo sentirai a ogni turno.
@@ -35,12 +38,15 @@ al mercato, al ristorante, in enoteca. Da imparare oggi.
 
 ### Turno 2 · FRUTTIVENDOLO: "Pomodori, benissimo. Quanti ne vuole? Un chilo, un chilo e mezzo?"
 *Tomatoes, great. How many do you want? A kilo, a kilo and a half?*
+*Letteralmente: Tomatoes, very-well. How-many of-them want-you-formal? A kilo, a kilo and a half?*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Un chilo va bene. | A kilo is fine. | minima / minimal |
 | Ne prendo un chilo e mezzo, grazie. | I'll take a kilo and a half, thanks. | **questa è la forma da rubare** / this is the one to steal |
 | Quanto viene al chilo? | How much is it per kilo? | chiede il prezzo prima di impegnarsi / asks the price before committing |
+
+**Distrattore.** "Prendo un chilo e mezzo, grazie." · manca "ne": una quantità senza il nome della cosa vuole "ne" / missing "ne": a quantity without repeating the noun needs "ne"
 
 **Grammatica, la più importante del file.** Guarda la sua domanda: `quanti **ne** vuole?`.
 Non dice "quanti pomodori vuole", perché i pomodori sono già stati nominati. Quel `ne`
@@ -92,12 +98,15 @@ Participio passato: `venuto`, e vuole l'ausiliare `essere` (`sono venuto`), non 
 
 ### Turno 3 · FRUTTIVENDOLO: "Le pesche invece sono dolcissime oggi. Vuole assaggiare?"
 *The peaches, on the other hand, are super sweet today. Do you want to taste one?*
+*Letteralmente: The peaches instead are very-sweet today. Want-you-formal to-taste?*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Volentieri! | Gladly! | il sì caldo, ed è il tuo ripasso / the warm yes, and it is your revision item |
 | Sì, volentieri, grazie. Mmh, buonissime. Ne prendo mezzo chilo. | Yes, gladly, thanks. Mm, delicious. I'll take half a kilo of them. | accetta, reagisce, ordina / accepts, reacts, orders |
 | No grazie, magari un'altra volta. Sono di qui? | No thanks, maybe another time. Are they local? | rifiuta senza chiudere la porta / declines without shutting the door |
+
+**Distrattore.** "Le pesche mi fanno piacere." · "mi fa piacere" è per proposte e inviti, non per il gradimento di un cibo offerto; si dice "mi piacciono" o "volentieri" / "mi fa piacere" is for offers and invitations, not for liking a food offered; say "mi piacciono" or "volentieri"
 
 **Grammatica.** `Volentieri` è la risposta che ti manca. Al g28 hai detto "un tramezzino mi
 fa piacere", che è comprensibile ma non italiano. `Volentieri` copre "yes please", "gladly",
@@ -129,12 +138,15 @@ mai `di` in mezzo.
 
 ### Turno 4 · FRUTTIVENDOLO: "Altro? Ho della verdura molto bella, guardi."
 *Anything else? I've got some really nice vegetables, look.*
+*Letteralmente: Other? I-have some vegetables very beautiful, look-you-formal.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | No, basta così, grazie. | No, that's all, thanks. | la chiusura standard al mercato / the standard market close |
 | Sì, mi dia anche due zucchine e un po' di basilico. | Yes, give me two courgettes and a bit of basil too. | aggiunge, col Lei / adds items, in the polite form |
 | Cosa c'è di buono in questo periodo? | What's good this time of year? | domanda da vero cliente / a real regular's question |
+
+**Distrattore.** "Penso che le zucchine sono più fresche del mercato." · dopo "penso che" serve il congiuntivo: "siano", non "sono" / after "penso che" the subjunctive is required: "siano", not "sono"
 
 **Grammatica.** `Basta così` (= that's enough, that's all) è come si chiude un acquisto in
 Italia. Al bar hai già imparato `va bene così`; al mercato si dice `basta così`. Sono
@@ -166,12 +178,15 @@ Imperativo di cortesia: `dia` (`mi dia due etti`). Col tu: `dammi`. Participio p
 
 ### Turno 5 · FRUTTIVENDOLO: "Allora, sono sei e quaranta. Glielo metto tutto in un sacchetto?"
 *So, that's six forty. Shall I put it all in one bag for you?*
+*Letteralmente: So, are six and forty. To-you-it I-put all in a bag?*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Sì, grazie. Ecco a Lei. | Yes, thanks. Here you go. | minima e completa / minimal and complete |
 | Sì, va bene. Posso pagare con la carta? | Yes, fine. Can I pay by card? | al mercato spesso no, chiedilo prima / at markets often no, so ask early |
 | Meglio due sacchetti, grazie, così non si schiacciano le pesche. | Two bags is better, thanks, so the peaches don't get squashed. | frase lunga e utile, e umana / a long, useful, human sentence |
+
+**Distrattore.** "No, prendo sacchetto più grande." · manca l'articolo nel superlativo relativo: "il sacchetto più grande" / missing the article in the relative superlative: "the biggest bag" needs "il"
 
 **Grammatica.** `Sei e quaranta` per 6,40 €, come al bar: la `e` fa da virgola decimale e la
 parola "euro" sparisce nel parlato veloce.

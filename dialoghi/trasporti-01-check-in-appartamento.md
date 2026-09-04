@@ -1,6 +1,6 @@
 # Check-in in appartamento
 
-Categoria: trasporti · Fase minima: 1 · Banca scenari: "Check-in in appartamento con l'host: chiavi, wifi, parcheggio"
+Categoria: trasporti · Fase minima: 1 · Banca scenari: "Check-in in appartamento con l'host: chiavi, wifi, parcheggio" · Voce: femminile
 
 ## Scena
 
@@ -17,12 +17,15 @@ do not. The most valuable sentence in the whole file is `può ripetere più lent
 
 ### Turno 1 · HOST: "Buonasera! Lei è il signor Lombardo? Benvenuti! Avete fatto buon viaggio?"
 *Good evening! Are you Mr. Lombardo? Welcome! Did you have a good trip?*
+*Letteralmente: Good-evening! You-formal are the Mr. Lombardo? Welcome-all! (You-all)-have made good trip?*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Sì, sono io. Buonasera! | Yes, that's me. Good evening! | minima e perfetta / minimal and perfect |
 | Sì, buonasera. Il viaggio è andato bene, grazie. Siamo un po' stanchi. | Yes, good evening. The trip went well, thanks. We're a bit tired. | frase intera, e `stanchi` giustifica tutto quello che sbaglierai dopo / a full sentence, and "tired" excuses everything you get wrong later |
 | Buonasera! Sì, tutto bene. Lei è Marco, vero? | Good evening! Yes, all good. You're Marco, right? | rilancia e conferma il nome / carries it back and confirms the name |
+
+**Distrattore.** "Sì, sono io, tu sei Marco?" · dà del tu all'host al primo incontro, serve il Lei finché non lo offre lei / uses tu with the host at first meeting, stick to Lei until she offers otherwise
 
 **Grammatica.** `Sono io` è come si dice "that's me". Letteralmente "I am I", che in inglese
 non esiste, ma in italiano è l'unica forma naturale quando qualcuno chiede se sei tu.
@@ -37,12 +40,15 @@ minuti passa al tu, puoi seguirlo; non essere tu il primo.
 
 ### Turno 2 · HOST: "Allora, queste sono le chiavi. La grande è del portone, la piccola è della porta di casa. Il portone si chiude sempre, mi raccomando."
 *So, these are the keys. The big one is for the street door, the small one for the apartment door. Always close the street door, please.*
+*Letteralmente: So, these are the keys. The big-one is of-the street-door, the small-one is of-the house door. The street-door itself closes always, to-me I-recommend.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Perfetto, grazie. | Perfect, thanks. | minima / minimal |
 | Va bene. Quindi la grande giù e la piccola su, giusto? | OK. So the big one downstairs and the small one upstairs, right? | ripete per confermare, mossa da adulto / repeats to confirm, a grown-up move |
 | Scusi, può ripetere? Quale è del portone? | Sorry, can you repeat? Which one is for the street door? | la frase che ti salverà il viaggio / the phrase that will save your trip |
+
+**Distrattore.** "Va bene. Quindi la chiave grande sta giù e quella piccola sta su, giusto?" · "stare" per la posizione statica di un oggetto è l'errore aperto; qui serve "essere": "la chiave grande è giù" / using "stare" for an object's static position is the open error pattern; "essere" is correct: "la chiave grande è giù"
 
 **Grammatica.** `Allora` non significa niente di preciso. È il segnale che una spiegazione
 sta per cominciare, come "so," o "right then," in inglese. Sentirlo aprire un turno vuol
@@ -86,12 +92,15 @@ Imperativo di cortesia: `apra`, `chiuda`. Participio passato irregolare per tutt
 
 ### Turno 3 · HOST: "Il wifi: la rete si chiama Casa Marina, la password è scritta sul frigorifero. Se non funziona, stacchi il router e lo riattacchi dopo un minuto."
 *The wifi: the network is called Casa Marina, the password is written on the fridge. If it doesn't work, unplug the router and plug it back in after a minute.*
+*Letteralmente: The wifi: the network itself is-called Casa Marina, the password is written on-the fridge. If not it-works, unplug-you the router and it re-plug-you after a minute.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Benissimo, grazie. | Great, thanks. | minima / minimal |
 | Ah, sul frigorifero. Va bene, la cerco dopo. | Ah, on the fridge. OK, I'll look for it later. | mostra che ha preso il dettaglio / shows he caught the detail |
 | Scusi, il router dov'è? | Sorry, where's the router? | domanda pratica, la farai davvero / a practical question, you will really ask it |
+
+**Distrattore.** "Penso che la password è sul frigorifero." · manca il congiuntivo dopo "penso che": "sia", non "è" / missing the subjunctive after "penso che": "sia", not "è"
 
 **Grammatica.** `Stacchi` e `riattacchi` sono imperativi di cortesia (terza persona), non
 presenti indicativi: ti sta dando istruzioni dandoti del Lei. A uno a cui desse del tu
@@ -131,12 +140,15 @@ degli anglofoni.
 
 ### Turno 4 · HOST: "Per la macchina: nelle strisce blu si paga fino alle otto di sera, dopo è gratis. Le strisce bianche sono libere, ma qui in centro non ne trova quasi mai."
 *For the car: in the blue lines you pay until eight in the evening, after that it's free. The white lines are free parking, but here in the center you'll almost never find any.*
+*Letteralmente: For the car: in-the blue lines itself one-pays until at-the eight of evening, after is free. The white lines are free, but here in center not of-them find-you almost never.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Capito, grazie. | Got it, thanks. | `capito` da solo è correttissimo / "capito" on its own is perfectly correct |
 | Quindi dopo le otto posso lasciare la macchina nelle strisce blu senza pagare? | So after eight I can leave the car in the blue lines without paying? | riformula per essere sicuro, ottima mossa / reformulates to be sure, an excellent move |
 | E il parchimetro dov'è? Si paga con la carta? | And where's the meter? Can you pay by card? | due domande utilissime / two very useful questions |
+
+**Distrattore.** "Quindi dopo le otto posso lasciare la macchina nelle strisce blu senza pagare, e nelle bianche non trovo mai." · manca "ne": "non ne trovo mai" quando non si ripete il nome del posto libero / missing "ne": "non ne trovo mai" when not repeating the noun for the free spot
 
 **Grammatica.** Il colore delle righe è la regola del parcheggio in tutta Italia: **blu** = a
 pagamento, **bianche** = gratis, **gialle** = riservate, non ci parcheggiare mai.
@@ -152,12 +164,15 @@ ore in italiano vogliono sempre l'articolo: `alle otto`, `alle dieci`, ma `a mez
 
 ### Turno 5 · HOST: "Ah, e l'acqua calda ci mette un paio di minuti. Non si preoccupi se all'inizio esce fredda."
 *Oh, and the hot water takes a couple of minutes. Don't worry if it comes out cold at first.*
+*Letteralmente: Ah, and the water hot it-puts a pair of minutes. Not itself worry-you if at-the-beginning it-comes-out cold.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Va bene, grazie per avermelo detto. | OK, thanks for telling me. | gentile e naturale / kind and natural |
 | Un paio di minuti, va bene. E il riscaldamento come si accende? | A couple of minutes, fine. And how do you turn the heating on? | accetta e aggiunge una domanda / accepts and adds a question |
 | Ah, meno male. Pensavo di aver sbagliato qualcosa. | Ah, thank goodness. I thought I'd done something wrong. | umano, e strappa una risata / human, and gets a laugh |
+
+**Distrattore.** "Va bene, è acqua più calda di sempre quando arriva!" · manca l'articolo: "è l'acqua più calda" / missing the article: "it's the hottest water" needs "l'"
 
 **Grammatica.** `Ci mette` = "it takes", parlando di tempo. Schema: `ci mette due minuti`,
 `ci vuole un'ora`, `ci vogliono due ore`. È uno degli schemi più usati e più lontani
@@ -184,12 +199,15 @@ Participio passato irregolare: `messo`. Imperativo di cortesia: `metta`.
 
 ### Turno 6 · HOST: "Il check-out è alle dieci. Se avete bisogno di qualcosa, mi scriva pure su WhatsApp, a qualsiasi ora."
 *Check-out is at ten. If you need anything, just message me on WhatsApp, any time.*
+*Letteralmente: The check-out is at-the ten. If (you-all)-have need of something, to-me write-you freely on WhatsApp, at any hour.*
 
 | Italiano | English | Nota |
 |---|---|---|
 | Perfetto. Grazie mille, molto gentile. | Perfect. Thanks so much, very kind of you. | la chiusura standard / the standard close |
 | Grazie. Le scrivo se abbiamo problemi. Buonasera! | Thanks. I'll write to you if we have problems. Good evening! | usa il `Le` di cortesia come pronome / uses the polite Le as an object pronoun |
 | Grazie mille. Un'ultima cosa: ci consiglia un posto per cena qui vicino? | Thanks a lot. One last thing: can you recommend somewhere for dinner nearby? | trasforma il check-in in informazioni vere / turns the check-in into real intel |
+
+**Distrattore.** "Va bene, mi fa piacere il WhatsApp." · "mi fa piacere" per un oggetto o servizio suona strano, si dice "va bene" o "perfetto" / "mi fa piacere" for an object or service sounds off, say "va bene" or "perfetto"
 
 **Grammatica.** `Avete bisogno di` = "you need". L'italiano dice letteralmente "you have need
 of", e la preposizione `di` è obbligatoria: `ho bisogno di un taxi`, mai "ho bisogno un
