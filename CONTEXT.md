@@ -101,3 +101,23 @@ _Avoid_: free mode, live mode, prova 2 (in the app UI)
 A Turno that was answered correctly in an earlier pass of the same Dialogo and needed a
 Soccorso or was wrong in the latest pass; also a target word never produced across passes.
 _Avoid_: regression, forgotten, failed review
+
+**Guida**:
+The engine that plays the counterpart in every mode: it reads the plan, hears Elliot,
+answers in character, and steers the scene back toward the next Tappa.
+_Avoid_: bot, agent, script runner
+
+**Tappa**:
+One goal the scene must pass through, taken from a Dialogo's Turni (scripted mode) or its
+Varianti (Improvvisazione). Passing a Tappa is what gets graded.
+_Avoid_: step, checkpoint, turn (that is a Turno)
+
+**Deviazione**:
+An exchange that does not answer the current Tappa: an in-world detour (asking a price,
+changing the order) or a meta request (a translation, a repeat, "come si dice"). Answered
+in character, logged as a Soccorso when it was a meta request, never graded.
+_Avoid_: off-script, error, interruption
+
+**Verdetto**:
+The one-word outcome shown after a graded Tappa: Bene, Quasi, or Riprova, with its color.
+_Avoid_: score band, result, grade label
