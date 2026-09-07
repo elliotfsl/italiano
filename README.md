@@ -61,6 +61,10 @@ Le date del viaggio e i dettagli personali sono volutamente sfumati; non chieder
 
 ## La riga di avvio che Elliot usa
 
-> Leggi https://raw.githubusercontent.com/elliotfsl/italiano/main/README.md e poi
-> STATUS.md e PROTOCOL.md nello stesso repo, poi il dialogo di oggi. Conduci la
-> sessione; io passo in modalità voce.
+> Leggi https://raw.githubusercontent.com/elliotfsl/italiano/main/voce/PROMPT.md e poi
+> voce/MODE-CLAUDE.md nello stesso repo, e seguili alla lettera: sono le tue istruzioni.
+> Rispondi con la tua prima battuta e basta; io passo in modalità voce.
+
+`voce/PROMPT.md` è la Guida: la scena come piano e non come copione, le deviazioni gestite
+in personaggio, i benchmark congelati, il post-mortem canonico. Dove questo README e la
+Guida dicono cose diverse, vince la Guida.

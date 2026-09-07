@@ -4,6 +4,11 @@ Built for: Elliot, so he can run spoken sessions in claude.ai voice mode. Last b
 
 Why this exists: Claude Code can hold program state but cannot speak. claude.ai voice mode speaks Italian but cannot write to this repo. A pacchetto bridges them. A repo session generates a self-contained markdown file; Elliot opens a brand new claude.ai chat, attaches or pastes it, and runs the session out loud; at the end that chat prints a post-mortem; he pastes the post-mortem back into a repo session, which folds it into `STATUS.md`, `lessico.md`, and `sessioni/`.
 
+Since metà settembre the voice session is driven by the Guida prompt in `voce/` (PROMPT.md plus one
+mode block; usage in `voce/README.md`, ADR-0005). Route A pastes it into the Claude app, which
+fetches the mirror; route B pastes a pacchetto v2 built by `tools/build_voice_pack.py` into the
+ChatGPT app. The return path below is unchanged.
+
 Since 2026-08-30 the PRIMARY voice path is the public mirror instead: Elliot sends a fresh
 claude.ai chat one line pointing at `raw.githubusercontent.com/elliotfsl/italiano/main/README.md`
 (text first, so it loads, then voice mode). The chat reads live STATUS and the day's dialogue,
@@ -38,7 +43,8 @@ This is the return path for BOTH portable modes, pack and mirror. A pack embeds 
 mirror-driven chat reads it from here. The chat prints it at the very end, filled in, inside
 ONE code block, and tells Elliot to paste it into his Claude Code session. Keep the labels
 exactly as written, because ingestion below keys on them. Leave a field as `niente` rather
-than inventing content.
+than inventing content. Il blocco BENCHMARK si stampa solo se oggi un benchmark era dovuto;
+altrimenti si cancella per intero, etichetta compresa.
 
 ```
 POST-MORTEM ITALIANO
@@ -48,7 +54,7 @@ Modo: <pacchetto portatile | specchio pubblico | app>, voce
 Fase: <da STATUS.md>
 Tema: <dialogo o benchmark di oggi>
 
-BENCHMARK <N> (solo se oggi era dovuto, altrimenti cancella questo blocco intero)
+BENCHMARK <N>
 | Scenario | Compito | "?" | Riparazioni | Compr. | Sciolt. | Corr. | Lessico |
 |---|---|---|---|---|---|---|---|
 | Ristorante | sì/no | n | n | 1-5 | 1-5 | 1-5 | 1-5 |
