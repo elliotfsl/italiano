@@ -15,7 +15,7 @@ separate switch.
 1. **Core prompt**, verbatim from `voce/PROMPT.md`, ending with `Begin now, in character, in Italian.`
 2. Blank line, then **`voce/MODE-CHATGPT.md`**, verbatim.
 3. `=== STATUS (estratto) ===` then one field per line, computed from the private
-   `D:\cc proj\primatine194\italiano\STATUS.md` at generation time:
+   `C:\cc proj\primatine194\italiano\STATUS.md` at generation time:
    - `Start: YYYY-MM-DD` (the Start line, verbatim; rule 7.6 recomputes Giorno from it)
    - `Data: YYYY-MM-DD` (the planned session date)
    - `Giorno: NN` (calendar days from Start through Data, start day 1, per PROTOCOL 7a the

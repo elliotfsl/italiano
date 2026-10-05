@@ -155,7 +155,7 @@ Scene: just landed, jet-lagged, picking up the SUV.
 Scene: morning coffee at the counter, a friendly local starts talking.
 - Opener (verbatim): "Scusi, Lei non è di qui, vero? Di dov'è? ... E cosa La porta in Sardegna?"
 - Mid complication, delivered fast (verbatim): "Secondo me settembre è il mese migliore, altro che agosto: meno gente e il mare è ancora caldo. Lei che ne pensa? Preferisce le città o il mare?"
-- Closer (verbatim): "Se avete una sera libera vi consiglio un posto io. E Lei, mi consiglia qualcosa della mia città?"
+- Closer (verbatim): "Se avete una sera libera vi consiglio un posto io. E Lei, mi consiglia qualcosa della sua città?"
 
 ### Scoring block (identical every run)
 
